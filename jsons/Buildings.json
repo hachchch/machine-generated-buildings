@@ -1,0 +1,6003 @@
+/*Buildings.json*/
+[
+        {
+        "name": "Building1",
+        "food": 4,
+                "requiredTech": "Sailing",
+        "uniques": ["Must be next to [Coast]"]
+        },
+        {
+        "name": "Building2",
+        "gold": 1,
+                "requiredTech": "Horseback Riding",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building3",
+        "faith": 2,
+                "requiredTech": "Mathematics",
+        "uniques": ["Only available <in cities with a [Building3]>"]
+        },
+        {
+        "name": "Building4",
+        "gold": 1,
+                "requiredTech": "Currency",
+        "uniques": ["Only available <in cities with a [Building3]>"]
+        },
+        {
+        "name": "Building5",
+        "culture": 1,
+                "requiredTech": "Mathematics",
+        "uniques": ["Destroyed when the city is captured"]
+        },
+        {
+        "name": "Building6",
+        "faith": 2,
+                "requiredTech": "Archery",
+        "uniques": ["Only available <in cities with a [Building3]>"]
+        },
+        {
+        "name": "Building7",
+        "happiness": 2,
+                "requiredTech": "Horseback Riding",
+        "uniques": ["Must be next to [Coast]"]
+        },
+        {
+        "name": "Building8",
+        "culture": 1,
+                "requiredTech": "Mining",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building9",
+        "gold": 1,
+        "cost": 2,
+                "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building10",
+        "gold": 1,
+                "requiredTech": "Philosophy",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building11",
+        "food": 1,
+                "requiredTech": "Horseback Riding",
+        "uniques": ["Destroyed when the city is captured"]
+        },
+        {
+        "name": "Building12",
+        "culture": 2,
+                "requiredTech": "Currency",
+        "uniques": ["[+1 Production] from [Cattle] tiles [in this city]"]
+        },
+        {
+        "name": "Building13",
+        "production": 1,
+        "cost": 2,
+                "uniques": ["Only available <in cities with a [Building3]>"]
+        },
+        {
+        "name": "Building14",
+        "faith": 1,
+                "requiredTech": "Horseback Riding",
+        "uniques": ["New [Military] units start with [15] Experience [in this city]"]
+        },
+        {
+        "name": "Building15",
+        "production": 1,
+                "requiredTech": "Engineering",
+        "uniques": ["New [Military] units start with [15] Experience [in this city]"]
+        },
+        {
+        "name": "Building16",
+        "food": 1,
+                "requiredTech": "Philosophy",
+        "uniques": ["Destroyed when the city is captured"]
+        },
+        {
+        "name": "Building17",
+        "culture": 1,
+                "requiredTech": "Mathematics",
+        "uniques": ["Must be next to [Coast]"]
+        },
+        {
+        "name": "Building18",
+        "gold": 2,
+                "requiredTech": "Mining",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building19",
+        "gold": 1,
+                "requiredTech": "Bronze Working",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building20",
+        "culture": 1,
+                "requiredTech": "Horseback Riding",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building21",
+        "gold": 1,
+                "requiredTech": "Philosophy",
+        "uniques": ["Destroyed when the city is captured"]
+        },
+        {
+        "name": "Building22",
+        "faith": 2,
+                "requiredTech": "Horseback Riding",
+        "uniques": ["Destroyed when the city is captured"]
+        },
+        {
+        "name": "Building23",
+        "faith": 1,
+                "requiredTech": "Masonry",
+        "uniques": ["[+1 Production] from [Cattle] tiles [in this city]"]
+        },
+        {
+        "name": "Building24",
+        "faith": 2,
+                "requiredTech": "Currency",
+        "uniques": ["[+1 Production] from [Cattle] tiles [in this city]"]
+        },
+        {
+        "name": "Building25",
+        "happiness": 1,
+                "requiredTech": "Optics",
+        "uniques": ["Destroyed when the city is captured"]
+        },
+        {
+        "name": "Building26",
+        "culture": 3,
+                "requiredTech": "Horseback Riding",
+        "uniques": ["Must be next to [Coast]"]
+        },
+        {
+        "name": "Building27",
+        "faith": 3,
+                "requiredTech": "Optics",
+        "uniques": ["Only available <in cities with a [Building3]>"]
+        },
+        {
+        "name": "Building28",
+        "production": 1,
+                "requiredTech": "Engineering",
+        "uniques": ["Only available <in cities with a [Building3]>"]
+        },
+        {
+        "name": "Building29",
+        "culture": 1,
+                "requiredTech": "Animal Husbandry",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building30",
+        "gold": 1,
+                "requiredTech": "Writing",
+        "uniques": ["Must be next to [Coast]"]
+        },
+        {
+        "name": "Building31",
+        "food": 1,
+                "requiredTech": "Calendar",
+        "uniques": ["Destroyed when the city is captured"]
+        },
+        {
+        "name": "Building32",
+        "production": 2,
+                "requiredTech": "Masonry",
+        "uniques": ["Only available <in cities with a [Building3]>"]
+        },
+        {
+        "name": "Building33",
+        "culture": 1,
+        "cost": 2,
+                "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building34",
+        "faith": 1,
+                "requiredTech": "Optics",
+        "uniques": ["[+1 Production] from [Cattle] tiles [in this city]"]
+        },
+        {
+        "name": "Building35",
+        "culture": 1,
+                "requiredTech": "Calendar",
+        "uniques": ["[+1 Production] from [Cattle] tiles [in this city]"]
+        },
+        {
+        "name": "Building36",
+        "food": 1,
+                "requiredTech": "Calendar",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building37",
+        "faith": 2,
+                "requiredTech": "Currency",
+        "uniques": ["New [Military] units start with [15] Experience [in this city]"]
+        },
+        {
+        "name": "Building38",
+        "happiness": 1,
+                "requiredTech": "The Wheel",
+        "uniques": ["Must be next to [Coast]"]
+        },
+        {
+        "name": "Building39",
+        "faith": 1,
+                "requiredTech": "Animal Husbandry",
+        "uniques": ["Destroyed when the city is captured"]
+        },
+        {
+        "name": "Building40",
+        "faith": 1,
+                "requiredTech": "Engineering",
+        "uniques": ["Only available <in cities with a [Building3]>"]
+        },
+        {
+        "name": "Building41",
+        "gold": 2,
+                "requiredTech": "Trapping",
+        "uniques": ["Must be next to [Coast]"]
+        },
+        {
+        "name": "Building42",
+        "culture": 2,
+                "requiredTech": "Currency",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building43",
+        "faith": 3,
+                "requiredTech": "Currency",
+        "uniques": ["Must be next to [Coast]"]
+        },
+        {
+        "name": "Building44",
+        "culture": 3,
+                "requiredTech": "Sailing",
+        "uniques": ["Only available <in cities with a [Building3]>"]
+        },
+        {
+        "name": "Building45",
+        "culture": 2,
+                "requiredTech": "Mathematics",
+        "uniques": ["Must be next to [Coast]"]
+        },
+        {
+        "name": "Building46",
+        "food": 1,
+                "requiredTech": "Bronze Working",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building47",
+        "happiness": 1,
+                "requiredTech": "Calendar",
+        "uniques": ["Only available <in cities with a [Building3]>"]
+        },
+        {
+        "name": "Building48",
+        "faith": 1,
+                "requiredTech": "Iron Working",
+        "uniques": ["[+1 Production] from [Cattle] tiles [in this city]"]
+        },
+        {
+        "name": "Building49",
+        "food": 1,
+                "requiredTech": "Pottery",
+        "uniques": ["New [Military] units start with [15] Experience [in this city]"]
+        },
+        {
+        "name": "Building50",
+        "happiness": 1,
+                "requiredTech": "Calendar",
+        "uniques": ["Only available <in cities with a [Building3]>"]
+        },
+        {
+        "name": "Building51",
+        "food": 1,
+                "requiredTech": "Optics",
+        "uniques": ["Only available <in cities with a [Building3]>"]
+        },
+        {
+        "name": "Building52",
+        "food": 1,
+                "requiredTech": "Pottery",
+        "uniques": ["Only available <in cities with a [Building3]>"]
+        },
+        {
+        "name": "Building53",
+        "culture": 1,
+                "requiredTech": "Construction",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building54",
+        "faith": 1,
+                "requiredTech": "Mining",
+        "uniques": ["New [Military] units start with [15] Experience [in this city]"]
+        },
+        {
+        "name": "Building55",
+        "gold": 2,
+                "requiredTech": "Drama and Poetry",
+        "uniques": ["[+1 Production] from [Cattle] tiles [in this city]"]
+        },
+        {
+        "name": "Building56",
+        "gold": 1,
+                "requiredTech": "The Wheel",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building57",
+        "food": 3,
+                "requiredTech": "The Wheel",
+        "uniques": ["Must be next to [Coast]"]
+        },
+        {
+        "name": "Building58",
+        "culture": 3,
+                "requiredTech": "Writing",
+        "uniques": ["[+1 Production] from [Cattle] tiles [in this city]"]
+        },
+        {
+        "name": "Building59",
+        "food": 2,
+                "requiredTech": "Calendar",
+        "uniques": ["New [Military] units start with [15] Experience [in this city]"]
+        },
+        {
+        "name": "Building60",
+        "production": 1,
+                "requiredTech": "Archery",
+        "uniques": ["Destroyed when the city is captured"]
+        },
+        {
+        "name": "Building61",
+        "production": 3,
+                "requiredTech": "Trapping",
+        "uniques": ["Destroyed when the city is captured"]
+        },
+        {
+        "name": "Building62",
+        "gold": 1,
+                "requiredTech": "Calendar",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building63",
+        "food": 3,
+                "requiredTech": "Archery",
+        "uniques": ["[+1 Production] from [Cattle] tiles [in this city]"]
+        },
+        {
+        "name": "Building64",
+        "gold": 1,
+                "requiredTech": "Trapping",
+        "uniques": ["Must be next to [Coast]"]
+        },
+        {
+        "name": "Building65",
+        "culture": 2,
+                "requiredTech": "Engineering",
+        "uniques": ["[+1 Production] from [Cattle] tiles [in this city]"]
+        },
+        {
+        "name": "Building66",
+        "gold": 1,
+                "requiredTech": "Writing",
+        "uniques": ["Only available <in cities with a [Building3]>"]
+        },
+        {
+        "name": "Building67",
+        "faith": 1,
+                "requiredTech": "Mining",
+        "uniques": ["[+1 Production] from [Cattle] tiles [in this city]"]
+        },
+        {
+        "name": "Building68",
+        "food": 1,
+                "requiredTech": "Engineering",
+        "uniques": ["Must be next to [Coast]"]
+        },
+        {
+        "name": "Building69",
+        "gold": 1,
+                "requiredTech": "The Wheel",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building70",
+        "culture": 1,
+                "requiredTech": "Optics",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building71",
+        "faith": 1,
+                "requiredTech": "Philosophy",
+        "uniques": ["[+1 Production] from [Cattle] tiles [in this city]"]
+        },
+        {
+        "name": "Building72",
+        "food": 2,
+                "requiredTech": "Sailing",
+        "uniques": ["Must be next to [Coast]"]
+        },
+        {
+        "name": "Building73",
+        "food": 1,
+                "requiredTech": "Bronze Working",
+        "uniques": ["[+1 Production] from [Cattle] tiles [in this city]"]
+        },
+        {
+        "name": "Building74",
+        "gold": 2,
+                "requiredTech": "Horseback Riding",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building75",
+        "culture": 2,
+                "requiredTech": "The Wheel",
+        "uniques": ["Only available <in cities with a [Building3]>"]
+        },
+        {
+        "name": "Building76",
+        "gold": 1,
+                "requiredTech": "Philosophy",
+        "uniques": ["Only available <in cities with a [Building3]>"]
+        },
+        {
+        "name": "Building77",
+        "happiness": 1,
+                "requiredTech": "Bronze Working",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building78",
+        "gold": 2,
+                "requiredTech": "Archery",
+        "uniques": ["[+1 Production] from [Cattle] tiles [in this city]"]
+        },
+        {
+        "name": "Building79",
+        "production": 1,
+                "requiredTech": "Iron Working",
+        "uniques": ["[+1 Production] from [Cattle] tiles [in this city]"]
+        },
+        {
+        "name": "Building80",
+        "gold": 1,
+                "requiredTech": "Bronze Working",
+        "uniques": ["Destroyed when the city is captured"]
+        },
+        {
+        "name": "Building81",
+        "food": 1,
+                "requiredTech": "Bronze Working",
+        "uniques": ["New [Military] units start with [15] Experience [in this city]"]
+        },
+        {
+        "name": "Building82",
+        "food": 1,
+                "requiredTech": "Construction",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building83",
+        "gold": 1,
+                "requiredTech": "Writing",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building84",
+        "culture": 1,
+                "requiredTech": "Drama and Poetry",
+        "uniques": ["Only available <in cities with a [Building3]>"]
+        },
+        {
+        "name": "Building85",
+        "happiness": 1,
+                "requiredTech": "Iron Working",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building86",
+        "culture": 1,
+                "requiredTech": "Philosophy",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building87",
+        "faith": 2,
+                "requiredTech": "Bronze Working",
+        "uniques": ["New [Military] units start with [15] Experience [in this city]"]
+        },
+        {
+        "name": "Building88",
+        "culture": 1,
+        "cost": 2,
+                "uniques": ["[+1 Production] from [Cattle] tiles [in this city]"]
+        },
+        {
+        "name": "Building89",
+        "gold": 2,
+                "requiredTech": "Construction",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building90",
+        "faith": 1,
+                "requiredTech": "Construction",
+        "uniques": ["Destroyed when the city is captured"]
+        },
+        {
+        "name": "Building91",
+        "culture": 2,
+                "requiredTech": "Drama and Poetry",
+        "uniques": ["New [Military] units start with [15] Experience [in this city]"]
+        },
+        {
+        "name": "Building92",
+        "faith": 1,
+                "requiredTech": "Sailing",
+        "uniques": ["New [Military] units start with [15] Experience [in this city]"]
+        },
+        {
+        "name": "Building93",
+        "gold": 1,
+                "requiredTech": "Mining",
+        "uniques": ["New [Military] units start with [15] Experience [in this city]"]
+        },
+        {
+        "name": "Building94",
+        "gold": 1,
+                "requiredTech": "Optics",
+        "uniques": ["Only available <in cities with a [Building3]>"]
+        },
+        {
+        "name": "Building95",
+        "production": 1,
+                "requiredTech": "The Wheel",
+        "uniques": ["Must be next to [Coast]"]
+        },
+        {
+        "name": "Building96",
+        "gold": 1,
+                "requiredTech": "Bronze Working",
+        "uniques": ["Destroyed when the city is captured"]
+        },
+        {
+        "name": "Building97",
+        "culture": 1,
+                "requiredTech": "Archery",
+        "uniques": ["[+1 Production] from [Cattle] tiles [in this city]"]
+        },
+        {
+        "name": "Building98",
+        "faith": 3,
+                "requiredTech": "Horseback Riding",
+        "uniques": ["Destroyed when the city is captured"]
+        },
+        {
+        "name": "Building99",
+        "happiness": 1,
+                "requiredTech": "Writing",
+        "uniques": ["Only available <in cities with a [Building3]>"]
+        },
+        {
+        "name": "Building100",
+        "production": 1,
+                "requiredTech": "Archery",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building101",
+        "faith": 2,
+                "requiredTech": "Horseback Riding",
+        "uniques": ["New [Military] units start with [15] Experience [in this city]"]
+        },
+        {
+        "name": "Building102",
+        "happiness": 2,
+                "requiredTech": "Writing",
+        "uniques": ["Only available <in cities with a [Building3]>"]
+        },
+        {
+        "name": "Building103",
+        "production": 2,
+                "requiredTech": "Bronze Working",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building104",
+        "gold": 1,
+                "requiredTech": "Currency",
+        "uniques": ["New [Military] units start with [15] Experience [in this city]"]
+        },
+        {
+        "name": "Building105",
+        "gold": 1,
+                "requiredTech": "Pottery",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building106",
+        "production": 2,
+                "requiredTech": "Bronze Working",
+        "uniques": ["New [Military] units start with [15] Experience [in this city]"]
+        },
+        {
+        "name": "Building107",
+        "faith": 1,
+                "requiredTech": "Drama and Poetry",
+        "uniques": ["New [Military] units start with [15] Experience [in this city]"]
+        },
+        {
+        "name": "Building108",
+        "food": 1,
+                "requiredTech": "Drama and Poetry",
+        "uniques": ["Must be next to [Coast]"]
+        },
+        {
+        "name": "Building109",
+        "gold": 2,
+                "requiredTech": "Archery",
+        "uniques": ["[+1 Production] from [Cattle] tiles [in this city]"]
+        },
+        {
+        "name": "Building110",
+        "culture": 1,
+        "cost": 3,
+                "uniques": ["[+1 Production] from [Cattle] tiles [in this city]"]
+        },
+        {
+        "name": "Building111",
+        "culture": 1,
+                "requiredTech": "Bronze Working",
+        "uniques": ["Only available <in cities with a [Building3]>"]
+        },
+        {
+        "name": "Building112",
+        "happiness": 1,
+                "requiredTech": "The Wheel",
+        "uniques": ["Must be next to [Coast]"]
+        },
+        {
+        "name": "Building113",
+        "gold": 1,
+                "requiredTech": "Philosophy",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building114",
+        "food": 1,
+                "requiredTech": "Archery",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building115",
+        "faith": 1,
+                "requiredTech": "Construction",
+        "uniques": ["Only available <in cities with a [Building3]>"]
+        },
+        {
+        "name": "Building116",
+        "happiness": 1,
+                "requiredTech": "Philosophy",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building117",
+        "happiness": 1,
+                "requiredTech": "Mining",
+        "uniques": ["Must be next to [Coast]"]
+        },
+        {
+        "name": "Building118",
+        "culture": 1,
+                "requiredTech": "Pottery",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building119",
+        "gold": 1,
+                "requiredTech": "Optics",
+        "uniques": ["Destroyed when the city is captured"]
+        },
+        {
+        "name": "Building120",
+        "gold": 1,
+                "requiredTech": "Masonry",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building121",
+        "production": 1,
+        "cost": 2,
+                "uniques": ["Must be next to [Coast]"]
+        },
+        {
+        "name": "Building122",
+        "culture": 1,
+                "requiredTech": "Pottery",
+        "uniques": ["[+1 Production] from [Cattle] tiles [in this city]"]
+        },
+        {
+        "name": "Building123",
+        "faith": 2,
+                "requiredTech": "Bronze Working",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building124",
+        "food": 1,
+                "requiredTech": "Iron Working",
+        "uniques": ["Only available <in cities with a [Building3]>"]
+        },
+        {
+        "name": "Building125",
+        "faith": 1,
+                "requiredTech": "Masonry",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building126",
+        "gold": 1,
+                "requiredTech": "Drama and Poetry",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building127",
+        "food": 1,
+                "requiredTech": "Horseback Riding",
+        "uniques": ["Destroyed when the city is captured"]
+        },
+        {
+        "name": "Building128",
+        "production": 1,
+                "requiredTech": "Currency",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building129",
+        "food": 1,
+                "requiredTech": "Masonry",
+        "uniques": ["[+1 Production] from [Cattle] tiles [in this city]"]
+        },
+        {
+        "name": "Building130",
+        "faith": 1,
+                "requiredTech": "Construction",
+        "uniques": ["Only available <in cities with a [Building3]>"]
+        },
+        {
+        "name": "Building131",
+        "happiness": 1,
+                "requiredTech": "Pottery",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building132",
+        "gold": 1,
+                "requiredTech": "Mining",
+        "uniques": ["[+1 Production] from [Cattle] tiles [in this city]"]
+        },
+        {
+        "name": "Building133",
+        "food": 1,
+        "cost": 3,
+                "uniques": ["Only available <in cities with a [Building3]>"]
+        },
+        {
+        "name": "Building134",
+        "culture": 2,
+                "requiredTech": "Horseback Riding",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building135",
+        "faith": 1,
+                "requiredTech": "Pottery",
+        "uniques": ["Must be next to [Coast]"]
+        },
+        {
+        "name": "Building136",
+        "food": 2,
+                "requiredTech": "Writing",
+        "uniques": ["Must be next to [Coast]"]
+        },
+        {
+        "name": "Building137",
+        "food": 2,
+                "requiredTech": "Masonry",
+        "uniques": ["Only available <in cities with a [Building3]>"]
+        },
+        {
+        "name": "Building138",
+        "faith": 2,
+                "requiredTech": "Optics",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building139",
+        "production": 1,
+                "requiredTech": "The Wheel",
+        "uniques": ["[+1 Production] from [Cattle] tiles [in this city]"]
+        },
+        {
+        "name": "Building140",
+        "faith": 1,
+                "requiredTech": "Currency",
+        "uniques": ["New [Military] units start with [15] Experience [in this city]"]
+        },
+        {
+        "name": "Building141",
+        "production": 3,
+                "requiredTech": "Philosophy",
+        "uniques": ["New [Military] units start with [15] Experience [in this city]"]
+        },
+        {
+        "name": "Building142",
+        "faith": 3,
+                "requiredTech": "Currency",
+        "uniques": ["Only available <in cities with a [Building3]>"]
+        },
+        {
+        "name": "Building143",
+        "culture": 1,
+                "requiredTech": "Drama and Poetry",
+        "uniques": ["[+1 Production] from [Cattle] tiles [in this city]"]
+        },
+        {
+        "name": "Building144",
+        "production": 1,
+                "requiredTech": "Trapping",
+        "uniques": ["Must be next to [Coast]"]
+        },
+        {
+        "name": "Building145",
+        "faith": 1,
+        "cost": 2,
+                "uniques": ["Only available <in cities with a [Building3]>"]
+        },
+        {
+        "name": "Building146",
+        "faith": 1,
+        "cost": 2,
+                "uniques": ["[+1 Production] from [Cattle] tiles [in this city]"]
+        },
+        {
+        "name": "Building147",
+        "gold": 1,
+                "requiredTech": "Horseback Riding",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building148",
+        "food": 3,
+                "requiredTech": "Drama and Poetry",
+        "uniques": ["New [Military] units start with [15] Experience [in this city]"]
+        },
+        {
+        "name": "Building149",
+        "gold": 1,
+                "requiredTech": "Philosophy",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building150",
+        "culture": 1,
+                "requiredTech": "Horseback Riding",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building151",
+        "production": 1,
+                "requiredTech": "Pottery",
+        "uniques": ["Destroyed when the city is captured"]
+        },
+        {
+        "name": "Building152",
+        "faith": 1,
+                "requiredTech": "Animal Husbandry",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building153",
+        "gold": 1,
+                "requiredTech": "Masonry",
+        "uniques": ["[+1 Production] from [Cattle] tiles [in this city]"]
+        },
+        {
+        "name": "Building154",
+        "culture": 2,
+                "requiredTech": "Calendar",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building155",
+        "happiness": 1,
+                "requiredTech": "Construction",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building156",
+        "faith": 2,
+                "requiredTech": "Masonry",
+        "uniques": ["Destroyed when the city is captured"]
+        },
+        {
+        "name": "Building157",
+        "culture": 1,
+                "requiredTech": "Sailing",
+        "uniques": ["Only available <in cities with a [Building3]>"]
+        },
+        {
+        "name": "Building158",
+        "culture": 1,
+                "requiredTech": "Engineering",
+        "uniques": ["New [Military] units start with [15] Experience [in this city]"]
+        },
+        {
+        "name": "Building159",
+        "gold": 1,
+                "requiredTech": "Sailing",
+        "uniques": ["New [Military] units start with [15] Experience [in this city]"]
+        },
+        {
+        "name": "Building160",
+        "food": 2,
+                "requiredTech": "Pottery",
+        "uniques": ["Must be next to [Coast]"]
+        },
+        {
+        "name": "Building161",
+        "gold": 3,
+                "requiredTech": "The Wheel",
+        "uniques": ["Must be next to [Coast]"]
+        },
+        {
+        "name": "Building162",
+        "gold": 1,
+                "requiredTech": "Currency",
+        "uniques": ["Only available <in cities with a [Building3]>"]
+        },
+        {
+        "name": "Building163",
+        "food": 1,
+                "requiredTech": "Masonry",
+        "uniques": ["Only available <in cities with a [Building3]>"]
+        },
+        {
+        "name": "Building164",
+        "food": 1,
+        "cost": 2,
+                "uniques": ["Only available <in cities with a [Building3]>"]
+        },
+        {
+        "name": "Building165",
+        "food": 1,
+                "requiredTech": "Optics",
+        "uniques": ["Only available <in cities with a [Building3]>"]
+        },
+        {
+        "name": "Building166",
+        "culture": 1,
+                "requiredTech": "Bronze Working",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building167",
+        "faith": 1,
+                "requiredTech": "Horseback Riding",
+        "uniques": ["Only available <in cities with a [Building3]>"]
+        },
+        {
+        "name": "Building168",
+        "culture": 2,
+                "requiredTech": "Engineering",
+        "uniques": ["New [Military] units start with [15] Experience [in this city]"]
+        },
+        {
+        "name": "Building169",
+        "culture": 1,
+                "requiredTech": "Philosophy",
+        "uniques": ["Must be next to [Coast]"]
+        },
+        {
+        "name": "Building170",
+        "production": 1,
+                "requiredTech": "Horseback Riding",
+        "uniques": ["New [Military] units start with [15] Experience [in this city]"]
+        },
+        {
+        "name": "Building171",
+        "culture": 1,
+                "requiredTech": "Iron Working",
+        "uniques": ["New [Military] units start with [15] Experience [in this city]"]
+        },
+        {
+        "name": "Building172",
+        "gold": 1,
+                "requiredTech": "Horseback Riding",
+        "uniques": ["New [Military] units start with [15] Experience [in this city]"]
+        },
+        {
+        "name": "Building173",
+        "production": 1,
+                "requiredTech": "Archery",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building174",
+        "production": 1,
+                "requiredTech": "Sailing",
+        "uniques": ["Destroyed when the city is captured"]
+        },
+        {
+        "name": "Building175",
+        "food": 1,
+                "requiredTech": "Bronze Working",
+        "uniques": ["[+1 Production] from [Cattle] tiles [in this city]"]
+        },
+        {
+        "name": "Building176",
+        "gold": 2,
+                "requiredTech": "Mathematics",
+        "uniques": ["Only available <in cities with a [Building3]>"]
+        },
+        {
+        "name": "Building177",
+        "happiness": 1,
+                "requiredTech": "Bronze Working",
+        "uniques": ["[+1 Production] from [Cattle] tiles [in this city]"]
+        },
+        {
+        "name": "Building178",
+        "food": 3,
+                "requiredTech": "Currency",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building179",
+        "culture": 1,
+                "requiredTech": "Masonry",
+        "uniques": ["[+1 Production] from [Cattle] tiles [in this city]"]
+        },
+        {
+        "name": "Building180",
+        "gold": 1,
+                "requiredTech": "Drama and Poetry",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building181",
+        "gold": 1,
+                "requiredTech": "Horseback Riding",
+        "uniques": ["[+1 Production] from [Cattle] tiles [in this city]"]
+        },
+        {
+        "name": "Building182",
+        "gold": 1,
+                "requiredTech": "Archery",
+        "uniques": ["Only available <in cities with a [Building3]>"]
+        },
+        {
+        "name": "Building183",
+        "faith": 2,
+        "cost": 3,
+                "uniques": ["[+1 Production] from [Cattle] tiles [in this city]"]
+        },
+        {
+        "name": "Building184",
+        "faith": 3,
+                "requiredTech": "Drama and Poetry",
+        "uniques": ["New [Military] units start with [15] Experience [in this city]"]
+        },
+        {
+        "name": "Building185",
+        "gold": 3,
+                "requiredTech": "Horseback Riding",
+        "uniques": ["Must be next to [Coast]"]
+        },
+        {
+        "name": "Building186",
+        "food": 1,
+                "requiredTech": "The Wheel",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building187",
+        "gold": 1,
+                "requiredTech": "The Wheel",
+        "uniques": ["Only available <in cities with a [Building3]>"]
+        },
+        {
+        "name": "Building188",
+        "culture": 2,
+                "requiredTech": "Construction",
+        "uniques": ["New [Military] units start with [15] Experience [in this city]"]
+        },
+        {
+        "name": "Building189",
+        "production": 2,
+                "requiredTech": "Bronze Working",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building190",
+        "faith": 1,
+                "requiredTech": "Trapping",
+        "uniques": ["New [Military] units start with [15] Experience [in this city]"]
+        },
+        {
+        "name": "Building191",
+        "happiness": 1,
+                "requiredTech": "Trapping",
+        "uniques": ["Only available <in cities with a [Building3]>"]
+        },
+        {
+        "name": "Building192",
+        "food": 1,
+                "requiredTech": "Drama and Poetry",
+        "uniques": ["New [Military] units start with [15] Experience [in this city]"]
+        },
+        {
+        "name": "Building193",
+        "culture": 2,
+                "requiredTech": "Archery",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building194",
+        "gold": 2,
+                "requiredTech": "Bronze Working",
+        "uniques": ["Only available <in cities with a [Building3]>"]
+        },
+        {
+        "name": "Building195",
+        "gold": 1,
+                "requiredTech": "Calendar",
+        "uniques": ["Only available <in cities with a [Building3]>"]
+        },
+        {
+        "name": "Building196",
+        "faith": 1,
+                "requiredTech": "Mining",
+        "uniques": ["Must be next to [Coast]"]
+        },
+        {
+        "name": "Building197",
+        "gold": 1,
+                "requiredTech": "Currency",
+        "uniques": ["[+1 Production] from [Cattle] tiles [in this city]"]
+        },
+        {
+        "name": "Building198",
+        "culture": 1,
+                "requiredTech": "Animal Husbandry",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building199",
+        "gold": 1,
+                "requiredTech": "Construction",
+        "uniques": ["[+1 Production] from [Cattle] tiles [in this city]"]
+        },
+        {
+        "name": "Building200",
+        "culture": 1,
+                "requiredTech": "Philosophy",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building201",
+        "production": 3,
+                "requiredTech": "Writing",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building202",
+        "production": 2,
+                "requiredTech": "Construction",
+        "uniques": ["Destroyed when the city is captured"]
+        },
+        {
+        "name": "Building203",
+        "culture": 2,
+                "requiredTech": "Iron Working",
+        "uniques": ["New [Military] units start with [15] Experience [in this city]"]
+        },
+        {
+        "name": "Building204",
+        "happiness": 1,
+                "requiredTech": "Pottery",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building205",
+        "gold": 1,
+                "requiredTech": "Masonry",
+        "uniques": ["[+1 Production] from [Cattle] tiles [in this city]"]
+        },
+        {
+        "name": "Building206",
+        "gold": 1,
+                "requiredTech": "Archery",
+        "uniques": ["Only available <in cities with a [Building3]>"]
+        },
+        {
+        "name": "Building207",
+        "gold": 1,
+                "requiredTech": "Philosophy",
+        "uniques": ["Only available <in cities with a [Building3]>"]
+        },
+        {
+        "name": "Building208",
+        "food": 1,
+                "requiredTech": "Drama and Poetry",
+        "uniques": ["Only available <in cities with a [Building3]>"]
+        },
+        {
+        "name": "Building209",
+        "happiness": 1,
+                "requiredTech": "Drama and Poetry",
+        "uniques": ["Only available <in cities with a [Building3]>"]
+        },
+        {
+        "name": "Building210",
+        "culture": 1,
+                "requiredTech": "Calendar",
+        "uniques": ["Only available <in cities with a [Building3]>"]
+        },
+        {
+        "name": "Building211",
+        "food": 1,
+                "requiredTech": "Engineering",
+        "uniques": ["Only available <in cities with a [Building3]>"]
+        },
+        {
+        "name": "Building212",
+        "gold": 2,
+                "requiredTech": "Calendar",
+        "uniques": ["Only available <in cities with a [Building3]>"]
+        },
+        {
+        "name": "Building213",
+        "culture": 1,
+                "requiredTech": "Currency",
+        "uniques": ["Only available <in cities with a [Building3]>"]
+        },
+        {
+        "name": "Building214",
+        "faith": 2,
+                "requiredTech": "Animal Husbandry",
+        "uniques": ["[+1 Production] from [Cattle] tiles [in this city]"]
+        },
+        {
+        "name": "Building215",
+        "faith": 1,
+                "requiredTech": "Mathematics",
+        "uniques": ["Destroyed when the city is captured"]
+        },
+        {
+        "name": "Building216",
+        "faith": 1,
+                "requiredTech": "Calendar",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building217",
+        "food": 2,
+                "requiredTech": "Calendar",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building218",
+        "production": 2,
+                "requiredTech": "Horseback Riding",
+        "uniques": ["[+1 Production] from [Cattle] tiles [in this city]"]
+        },
+        {
+        "name": "Building219",
+        "faith": 1,
+                "requiredTech": "Pottery",
+        "uniques": ["Only available <in cities with a [Building3]>"]
+        },
+        {
+        "name": "Building220",
+        "gold": 2,
+                "requiredTech": "Currency",
+        "uniques": ["Destroyed when the city is captured"]
+        },
+        {
+        "name": "Building221",
+        "gold": 1,
+                "requiredTech": "Construction",
+        "uniques": ["[+1 Production] from [Cattle] tiles [in this city]"]
+        },
+        {
+        "name": "Building222",
+        "faith": 1,
+                "requiredTech": "Writing",
+        "uniques": ["Only available <in cities with a [Building3]>"]
+        },
+        {
+        "name": "Building223",
+        "faith": 1,
+                "requiredTech": "Engineering",
+        "uniques": ["New [Military] units start with [15] Experience [in this city]"]
+        },
+        {
+        "name": "Building224",
+        "gold": 1,
+                "requiredTech": "Philosophy",
+        "uniques": ["Must be next to [Coast]"]
+        },
+        {
+        "name": "Building225",
+        "faith": 1,
+                "requiredTech": "Engineering",
+        "uniques": ["[+1 Production] from [Cattle] tiles [in this city]"]
+        },
+        {
+        "name": "Building226",
+        "gold": 1,
+                "requiredTech": "Pottery",
+        "uniques": ["Must be next to [Coast]"]
+        },
+        {
+        "name": "Building227",
+        "production": 1,
+                "requiredTech": "Trapping",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building228",
+        "culture": 1,
+                "requiredTech": "Mathematics",
+        "uniques": ["[+1 Production] from [Cattle] tiles [in this city]"]
+        },
+        {
+        "name": "Building229",
+        "food": 2,
+                "requiredTech": "Animal Husbandry",
+        "uniques": ["Must be next to [Coast]"]
+        },
+        {
+        "name": "Building230",
+        "food": 1,
+                "requiredTech": "Pottery",
+        "uniques": ["[+1 Production] from [Cattle] tiles [in this city]"]
+        },
+        {
+        "name": "Building231",
+        "faith": 1,
+                "requiredTech": "Engineering",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building232",
+        "food": 1,
+                "requiredTech": "Engineering",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building233",
+        "gold": 2,
+                "requiredTech": "Pottery",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building234",
+        "food": 3,
+                "requiredTech": "Mining",
+        "uniques": ["Must be next to [Coast]"]
+        },
+        {
+        "name": "Building235",
+        "culture": 1,
+                "requiredTech": "Archery",
+        "uniques": ["Destroyed when the city is captured"]
+        },
+        {
+        "name": "Building236",
+        "food": 2,
+                "requiredTech": "Mining",
+        "uniques": ["Destroyed when the city is captured"]
+        },
+        {
+        "name": "Building237",
+        "production": 1,
+                "requiredTech": "Mathematics",
+        "uniques": ["Only available <in cities with a [Building3]>"]
+        },
+        {
+        "name": "Building238",
+        "culture": 1,
+                "requiredTech": "Bronze Working",
+        "uniques": ["Only available <in cities with a [Building3]>"]
+        },
+        {
+        "name": "Building239",
+        "gold": 2,
+                "requiredTech": "Writing",
+        "uniques": ["Must be next to [Coast]"]
+        },
+        {
+        "name": "Building240",
+        "happiness": 1,
+                "requiredTech": "Animal Husbandry",
+        "uniques": ["New [Military] units start with [15] Experience [in this city]"]
+        },
+        {
+        "name": "Building241",
+        "food": 1,
+                "requiredTech": "Construction",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building242",
+        "food": 3,
+                "requiredTech": "Sailing",
+        "uniques": ["New [Military] units start with [15] Experience [in this city]"]
+        },
+        {
+        "name": "Building243",
+        "food": 1,
+                "requiredTech": "Masonry",
+        "uniques": ["Must be next to [Coast]"]
+        },
+        {
+        "name": "Building244",
+        "culture": 1,
+                "requiredTech": "Horseback Riding",
+        "uniques": ["[+1 Production] from [Cattle] tiles [in this city]"]
+        },
+        {
+        "name": "Building245",
+        "culture": 3,
+                "requiredTech": "Construction",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building246",
+        "food": 2,
+                "requiredTech": "Writing",
+        "uniques": ["New [Military] units start with [15] Experience [in this city]"]
+        },
+        {
+        "name": "Building247",
+        "faith": 1,
+                "requiredTech": "Archery",
+        "uniques": ["Must be next to [Coast]"]
+        },
+        {
+        "name": "Building248",
+        "production": 2,
+                "requiredTech": "Philosophy",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building249",
+        "faith": 2,
+                "requiredTech": "Mathematics",
+        "uniques": ["[+1 Production] from [Cattle] tiles [in this city]"]
+        },
+        {
+        "name": "Building250",
+        "faith": 1,
+                "requiredTech": "Archery",
+        "uniques": ["New [Military] units start with [15] Experience [in this city]"]
+        },
+        {
+        "name": "Building251",
+        "culture": 1,
+                "requiredTech": "Writing",
+        "uniques": ["Only available <in cities with a [Building3]>"]
+        },
+        {
+        "name": "Building252",
+        "gold": 2,
+                "requiredTech": "Construction",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building253",
+        "faith": 1,
+                "requiredTech": "Archery",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building254",
+        "gold": 1,
+                "requiredTech": "Currency",
+        "uniques": ["[+1 Production] from [Cattle] tiles [in this city]"]
+        },
+        {
+        "name": "Building255",
+        "culture": 1,
+                "requiredTech": "Bronze Working",
+        "uniques": ["New [Military] units start with [15] Experience [in this city]"]
+        },
+        {
+        "name": "Building256",
+        "faith": 1,
+                "requiredTech": "Currency",
+        "uniques": ["[+1 Production] from [Cattle] tiles [in this city]"]
+        },
+        {
+        "name": "Building257",
+        "food": 4,
+                "requiredTech": "Animal Husbandry",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building258",
+        "food": 1,
+                "requiredTech": "Currency",
+        "uniques": ["[+1 Production] from [Cattle] tiles [in this city]"]
+        },
+        {
+        "name": "Building259",
+        "faith": 1,
+                "requiredTech": "Engineering",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building260",
+        "production": 1,
+                "requiredTech": "Philosophy",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building261",
+        "food": 2,
+                "requiredTech": "Pottery",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building262",
+        "food": 1,
+                "requiredTech": "Mining",
+        "uniques": ["New [Military] units start with [15] Experience [in this city]"]
+        },
+        {
+        "name": "Building263",
+        "happiness": 1,
+                "requiredTech": "Drama and Poetry",
+        "uniques": ["New [Military] units start with [15] Experience [in this city]"]
+        },
+        {
+        "name": "Building264",
+        "gold": 1,
+                "requiredTech": "Bronze Working",
+        "uniques": ["Destroyed when the city is captured"]
+        },
+        {
+        "name": "Building265",
+        "faith": 1,
+                "requiredTech": "Sailing",
+        "uniques": ["Must be next to [Coast]"]
+        },
+        {
+        "name": "Building266",
+        "culture": 1,
+                "requiredTech": "Iron Working",
+        "uniques": ["Destroyed when the city is captured"]
+        },
+        {
+        "name": "Building267",
+        "production": 2,
+                "requiredTech": "Sailing",
+        "uniques": ["New [Military] units start with [15] Experience [in this city]"]
+        },
+        {
+        "name": "Building268",
+        "gold": 2,
+                "requiredTech": "The Wheel",
+        "uniques": ["New [Military] units start with [15] Experience [in this city]"]
+        },
+        {
+        "name": "Building269",
+        "gold": 1,
+                "requiredTech": "Calendar",
+        "uniques": ["[+1 Production] from [Cattle] tiles [in this city]"]
+        },
+        {
+        "name": "Building270",
+        "culture": 1,
+                "requiredTech": "Archery",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building271",
+        "gold": 2,
+                "requiredTech": "Construction",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building272",
+        "gold": 1,
+                "requiredTech": "Masonry",
+        "uniques": ["New [Military] units start with [15] Experience [in this city]"]
+        },
+        {
+        "name": "Building273",
+        "food": 1,
+                "requiredTech": "Sailing",
+        "uniques": ["Destroyed when the city is captured"]
+        },
+        {
+        "name": "Building274",
+        "faith": 2,
+                "requiredTech": "Masonry",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building275",
+        "culture": 2,
+                "requiredTech": "Optics",
+        "uniques": ["Must be next to [Coast]"]
+        },
+        {
+        "name": "Building276",
+        "culture": 1,
+                "requiredTech": "Mathematics",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building277",
+        "production": 1,
+                "requiredTech": "Drama and Poetry",
+        "uniques": ["Must be next to [Coast]"]
+        },
+        {
+        "name": "Building278",
+        "food": 3,
+                "requiredTech": "Currency",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building279",
+        "happiness": 1,
+                "requiredTech": "Animal Husbandry",
+        "uniques": ["New [Military] units start with [15] Experience [in this city]"]
+        },
+        {
+        "name": "Building280",
+        "culture": 2,
+                "requiredTech": "Mathematics",
+        "uniques": ["Must be next to [Coast]"]
+        },
+        {
+        "name": "Building281",
+        "faith": 1,
+                "requiredTech": "Writing",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building282",
+        "gold": 2,
+                "requiredTech": "Iron Working",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building283",
+        "gold": 2,
+                "requiredTech": "Sailing",
+        "uniques": ["Must be next to [Coast]"]
+        },
+        {
+        "name": "Building284",
+        "faith": 2,
+        "cost": 2,
+                "uniques": ["Only available <in cities with a [Building3]>"]
+        },
+        {
+        "name": "Building285",
+        "production": 2,
+                "requiredTech": "Construction",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building286",
+        "gold": 2,
+                "requiredTech": "Calendar",
+        "uniques": ["[+1 Production] from [Cattle] tiles [in this city]"]
+        },
+        {
+        "name": "Building287",
+        "gold": 2,
+                "requiredTech": "Horseback Riding",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building288",
+        "gold": 1,
+                "requiredTech": "Philosophy",
+        "uniques": ["[+1 Production] from [Cattle] tiles [in this city]"]
+        },
+        {
+        "name": "Building289",
+        "faith": 2,
+                "requiredTech": "The Wheel",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building290",
+        "faith": 2,
+                "requiredTech": "Philosophy",
+        "uniques": ["New [Military] units start with [15] Experience [in this city]"]
+        },
+        {
+        "name": "Building291",
+        "culture": 1,
+                "requiredTech": "Drama and Poetry",
+        "uniques": ["Must be next to [Coast]"]
+        },
+        {
+        "name": "Building292",
+        "food": 3,
+                "requiredTech": "Sailing",
+        "uniques": ["New [Military] units start with [15] Experience [in this city]"]
+        },
+        {
+        "name": "Building293",
+        "faith": 1,
+                "requiredTech": "Optics",
+        "uniques": ["New [Military] units start with [15] Experience [in this city]"]
+        },
+        {
+        "name": "Building294",
+        "culture": 1,
+                "requiredTech": "The Wheel",
+        "uniques": ["Destroyed when the city is captured"]
+        },
+        {
+        "name": "Building295",
+        "culture": 2,
+                "requiredTech": "Writing",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building296",
+        "food": 2,
+                "requiredTech": "Currency",
+        "uniques": ["Must be next to [Coast]"]
+        },
+        {
+        "name": "Building297",
+        "culture": 2,
+                "requiredTech": "Horseback Riding",
+        "uniques": ["[+1 Production] from [Cattle] tiles [in this city]"]
+        },
+        {
+        "name": "Building298",
+        "faith": 1,
+                "requiredTech": "Pottery",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building299",
+        "gold": 1,
+                "requiredTech": "Animal Husbandry",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building300",
+        "happiness": 1,
+                "requiredTech": "Drama and Poetry",
+        "uniques": ["Only available <in cities with a [Building3]>"]
+        },
+        {
+        "name": "Building301",
+        "culture": 1,
+                "requiredTech": "Trapping",
+        "uniques": ["Must be next to [Coast]"]
+        },
+        {
+        "name": "Building302",
+        "gold": 1,
+                "requiredTech": "Trapping",
+        "uniques": ["Destroyed when the city is captured"]
+        },
+        {
+        "name": "Building303",
+        "gold": 1,
+                "requiredTech": "Philosophy",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building304",
+        "faith": 1,
+                "requiredTech": "Calendar",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building305",
+        "food": 2,
+                "requiredTech": "Trapping",
+        "uniques": ["Only available <in cities with a [Building3]>"]
+        },
+        {
+        "name": "Building306",
+        "production": 2,
+                "requiredTech": "Engineering",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building307",
+        "faith": 1,
+                "requiredTech": "Currency",
+        "uniques": ["Only available <in cities with a [Building3]>"]
+        },
+        {
+        "name": "Building308",
+        "food": 1,
+                "requiredTech": "Sailing",
+        "uniques": ["Destroyed when the city is captured"]
+        },
+        {
+        "name": "Building309",
+        "gold": 1,
+                "requiredTech": "Optics",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building310",
+        "faith": 1,
+                "requiredTech": "Philosophy",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building311",
+        "happiness": 1,
+                "requiredTech": "Mining",
+        "uniques": ["Must be next to [Coast]"]
+        },
+        {
+        "name": "Building312",
+        "gold": 2,
+                "requiredTech": "Philosophy",
+        "uniques": ["Must be next to [Coast]"]
+        },
+        {
+        "name": "Building313",
+        "faith": 1,
+                "requiredTech": "Pottery",
+        "uniques": ["New [Military] units start with [15] Experience [in this city]"]
+        },
+        {
+        "name": "Building314",
+        "culture": 2,
+                "requiredTech": "Sailing",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building315",
+        "gold": 2,
+                "requiredTech": "Mining",
+        "uniques": ["[+1 Production] from [Cattle] tiles [in this city]"]
+        },
+        {
+        "name": "Building316",
+        "gold": 1,
+                "requiredTech": "Mathematics",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building317",
+        "faith": 1,
+                "requiredTech": "Pottery",
+        "uniques": ["[+1 Production] from [Cattle] tiles [in this city]"]
+        },
+        {
+        "name": "Building318",
+        "gold": 1,
+                "requiredTech": "Animal Husbandry",
+        "uniques": ["New [Military] units start with [15] Experience [in this city]"]
+        },
+        {
+        "name": "Building319",
+        "gold": 1,
+                "requiredTech": "Horseback Riding",
+        "uniques": ["[+1 Production] from [Cattle] tiles [in this city]"]
+        },
+        {
+        "name": "Building320",
+        "culture": 1,
+                "requiredTech": "Masonry",
+        "uniques": ["New [Military] units start with [15] Experience [in this city]"]
+        },
+        {
+        "name": "Building321",
+        "faith": 1,
+                "requiredTech": "Drama and Poetry",
+        "uniques": ["Only available <in cities with a [Building3]>"]
+        },
+        {
+        "name": "Building322",
+        "gold": 1,
+                "requiredTech": "Horseback Riding",
+        "uniques": ["Only available <in cities with a [Building3]>"]
+        },
+        {
+        "name": "Building323",
+        "faith": 1,
+                "requiredTech": "Iron Working",
+        "uniques": ["Only available <in cities with a [Building3]>"]
+        },
+        {
+        "name": "Building324",
+        "culture": 1,
+                "requiredTech": "Mathematics",
+        "uniques": ["Only available <in cities with a [Building3]>"]
+        },
+        {
+        "name": "Building325",
+        "happiness": 1,
+                "requiredTech": "Trapping",
+        "uniques": ["New [Military] units start with [15] Experience [in this city]"]
+        },
+        {
+        "name": "Building326",
+        "food": 1,
+                "requiredTech": "Currency",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building327",
+        "gold": 1,
+                "requiredTech": "Engineering",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building328",
+        "gold": 1,
+                "requiredTech": "The Wheel",
+        "uniques": ["[+1 Production] from [Cattle] tiles [in this city]"]
+        },
+        {
+        "name": "Building329",
+        "food": 1,
+                "requiredTech": "Pottery",
+        "uniques": ["Only available <in cities with a [Building3]>"]
+        },
+        {
+        "name": "Building330",
+        "happiness": 1,
+                "requiredTech": "Bronze Working",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building331",
+        "faith": 1,
+                "requiredTech": "Bronze Working",
+        "uniques": ["[+1 Production] from [Cattle] tiles [in this city]"]
+        },
+        {
+        "name": "Building332",
+        "faith": 1,
+                "requiredTech": "Pottery",
+        "uniques": ["Destroyed when the city is captured"]
+        },
+        {
+        "name": "Building333",
+        "food": 1,
+                "requiredTech": "Engineering",
+        "uniques": ["Must be next to [Coast]"]
+        },
+        {
+        "name": "Building334",
+        "production": 2,
+                "requiredTech": "Drama and Poetry",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building335",
+        "food": 1,
+                "requiredTech": "Currency",
+        "uniques": ["New [Military] units start with [15] Experience [in this city]"]
+        },
+        {
+        "name": "Building336",
+        "gold": 2,
+                "requiredTech": "Philosophy",
+        "uniques": ["Only available <in cities with a [Building3]>"]
+        },
+        {
+        "name": "Building337",
+        "food": 1,
+                "requiredTech": "Bronze Working",
+        "uniques": ["New [Military] units start with [15] Experience [in this city]"]
+        },
+        {
+        "name": "Building338",
+        "gold": 1,
+                "requiredTech": "Sailing",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building339",
+        "gold": 1,
+                "requiredTech": "Animal Husbandry",
+        "uniques": ["Only available <in cities with a [Building3]>"]
+        },
+        {
+        "name": "Building340",
+        "faith": 2,
+                "requiredTech": "Calendar",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building341",
+        "gold": 2,
+                "requiredTech": "Mining",
+        "uniques": ["Destroyed when the city is captured"]
+        },
+        {
+        "name": "Building342",
+        "food": 3,
+                "requiredTech": "Engineering",
+        "uniques": ["New [Military] units start with [15] Experience [in this city]"]
+        },
+        {
+        "name": "Building343",
+        "gold": 1,
+                "requiredTech": "Archery",
+        "uniques": ["Must be next to [Coast]"]
+        },
+        {
+        "name": "Building344",
+        "culture": 1,
+                "requiredTech": "Calendar",
+        "uniques": ["Only available <in cities with a [Building3]>"]
+        },
+        {
+        "name": "Building345",
+        "happiness": 1,
+                "requiredTech": "Bronze Working",
+        "uniques": ["Only available <in cities with a [Building3]>"]
+        },
+        {
+        "name": "Building346",
+        "happiness": 1,
+                "requiredTech": "Bronze Working",
+        "uniques": ["Only available <in cities with a [Building3]>"]
+        },
+        {
+        "name": "Building347",
+        "culture": 1,
+                "requiredTech": "Pottery",
+        "uniques": ["Destroyed when the city is captured"]
+        },
+        {
+        "name": "Building348",
+        "culture": 1,
+                "requiredTech": "Archery",
+        "uniques": ["Only available <in cities with a [Building3]>"]
+        },
+        {
+        "name": "Building349",
+        "culture": 1,
+                "requiredTech": "Horseback Riding",
+        "uniques": ["Destroyed when the city is captured"]
+        },
+        {
+        "name": "Building350",
+        "happiness": 1,
+                "requiredTech": "Construction",
+        "uniques": ["Must be next to [Coast]"]
+        },
+        {
+        "name": "Building351",
+        "culture": 2,
+                "requiredTech": "Bronze Working",
+        "uniques": ["Destroyed when the city is captured"]
+        },
+        {
+        "name": "Building352",
+        "gold": 2,
+                "requiredTech": "Masonry",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building353",
+        "faith": 1,
+                "requiredTech": "Bronze Working",
+        "uniques": ["Destroyed when the city is captured"]
+        },
+        {
+        "name": "Building354",
+        "culture": 1,
+                "requiredTech": "Optics",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building355",
+        "food": 3,
+                "requiredTech": "Optics",
+        "uniques": ["Must be next to [Coast]"]
+        },
+        {
+        "name": "Building356",
+        "faith": 1,
+                "requiredTech": "Philosophy",
+        "uniques": ["Only available <in cities with a [Building3]>"]
+        },
+        {
+        "name": "Building357",
+        "food": 1,
+                "requiredTech": "Calendar",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building358",
+        "culture": 2,
+                "requiredTech": "Calendar",
+        "uniques": ["Destroyed when the city is captured"]
+        },
+        {
+        "name": "Building359",
+        "happiness": 1,
+                "requiredTech": "The Wheel",
+        "uniques": ["Only available <in cities with a [Building3]>"]
+        },
+        {
+        "name": "Building360",
+        "happiness": 1,
+                "requiredTech": "Archery",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building361",
+        "culture": 2,
+                "requiredTech": "Archery",
+        "uniques": ["Must be next to [Coast]"]
+        },
+        {
+        "name": "Building362",
+        "production": 1,
+                "requiredTech": "The Wheel",
+        "uniques": ["Destroyed when the city is captured"]
+        },
+        {
+        "name": "Building363",
+        "food": 1,
+                "requiredTech": "Currency",
+        "uniques": ["[+1 Production] from [Cattle] tiles [in this city]"]
+        },
+        {
+        "name": "Building364",
+        "food": 2,
+                "requiredTech": "Trapping",
+        "uniques": ["New [Military] units start with [15] Experience [in this city]"]
+        },
+        {
+        "name": "Building365",
+        "production": 1,
+                "requiredTech": "Archery",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building366",
+        "production": 2,
+                "requiredTech": "Optics",
+        "uniques": ["New [Military] units start with [15] Experience [in this city]"]
+        },
+        {
+        "name": "Building367",
+        "happiness": 1,
+                "requiredTech": "Masonry",
+        "uniques": ["Only available <in cities with a [Building3]>"]
+        },
+        {
+        "name": "Building368",
+        "faith": 1,
+                "requiredTech": "Writing",
+        "uniques": ["Destroyed when the city is captured"]
+        },
+        {
+        "name": "Building369",
+        "food": 1,
+                "requiredTech": "Pottery",
+        "uniques": ["[+1 Production] from [Cattle] tiles [in this city]"]
+        },
+        {
+        "name": "Building370",
+        "gold": 2,
+                "requiredTech": "Currency",
+        "uniques": ["New [Military] units start with [15] Experience [in this city]"]
+        },
+        {
+        "name": "Building371",
+        "production": 1,
+                "requiredTech": "Horseback Riding",
+        "uniques": ["[+1 Production] from [Cattle] tiles [in this city]"]
+        },
+        {
+        "name": "Building372",
+        "culture": 2,
+                "requiredTech": "The Wheel",
+        "uniques": ["New [Military] units start with [15] Experience [in this city]"]
+        },
+        {
+        "name": "Building373",
+        "faith": 1,
+                "requiredTech": "Archery",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building374",
+        "culture": 1,
+                "requiredTech": "Calendar",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building375",
+        "happiness": 1,
+                "requiredTech": "The Wheel",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building376",
+        "culture": 1,
+                "requiredTech": "Writing",
+        "uniques": ["[+1 Production] from [Cattle] tiles [in this city]"]
+        },
+        {
+        "name": "Building377",
+        "food": 1,
+                "requiredTech": "Iron Working",
+        "uniques": ["New [Military] units start with [15] Experience [in this city]"]
+        },
+        {
+        "name": "Building378",
+        "happiness": 1,
+                "requiredTech": "The Wheel",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building379",
+        "food": 2,
+                "requiredTech": "Masonry",
+        "uniques": ["New [Military] units start with [15] Experience [in this city]"]
+        },
+        {
+        "name": "Building380",
+        "faith": 1,
+                "requiredTech": "Animal Husbandry",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building381",
+        "faith": 1,
+                "requiredTech": "Mathematics",
+        "uniques": ["Destroyed when the city is captured"]
+        },
+        {
+        "name": "Building382",
+        "faith": 2,
+                "requiredTech": "Animal Husbandry",
+        "uniques": ["[+1 Production] from [Cattle] tiles [in this city]"]
+        },
+        {
+        "name": "Building383",
+        "culture": 1,
+                "requiredTech": "Philosophy",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building384",
+        "faith": 1,
+                "requiredTech": "Animal Husbandry",
+        "uniques": ["[+1 Production] from [Cattle] tiles [in this city]"]
+        },
+        {
+        "name": "Building385",
+        "culture": 1,
+                "requiredTech": "Philosophy",
+        "uniques": ["Only available <in cities with a [Building3]>"]
+        },
+        {
+        "name": "Building386",
+        "gold": 1,
+                "requiredTech": "Masonry",
+        "uniques": ["Destroyed when the city is captured"]
+        },
+        {
+        "name": "Building387",
+        "gold": 1,
+                "requiredTech": "Trapping",
+        "uniques": ["Only available <in cities with a [Building3]>"]
+        },
+        {
+        "name": "Building388",
+        "gold": 1,
+                "requiredTech": "Horseback Riding",
+        "uniques": ["New [Military] units start with [15] Experience [in this city]"]
+        },
+        {
+        "name": "Building389",
+        "production": 1,
+                "requiredTech": "Mathematics",
+        "uniques": ["Must be next to [Coast]"]
+        },
+        {
+        "name": "Building390",
+        "gold": 1,
+                "requiredTech": "Mining",
+        "uniques": ["[+1 Production] from [Cattle] tiles [in this city]"]
+        },
+        {
+        "name": "Building391",
+        "culture": 3,
+                "requiredTech": "Animal Husbandry",
+        "uniques": ["[+1 Production] from [Cattle] tiles [in this city]"]
+        },
+        {
+        "name": "Building392",
+        "culture": 1,
+                "requiredTech": "Iron Working",
+        "uniques": ["New [Military] units start with [15] Experience [in this city]"]
+        },
+        {
+        "name": "Building393",
+        "happiness": 1,
+                "requiredTech": "Optics",
+        "uniques": ["Only available <in cities with a [Building3]>"]
+        },
+        {
+        "name": "Building394",
+        "culture": 1,
+        "cost": 3,
+                "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building395",
+        "food": 1,
+                "requiredTech": "Mining",
+        "uniques": ["Only available <in cities with a [Building3]>"]
+        },
+        {
+        "name": "Building396",
+        "faith": 2,
+                "requiredTech": "Currency",
+        "uniques": ["[+1 Production] from [Cattle] tiles [in this city]"]
+        },
+        {
+        "name": "Building397",
+        "happiness": 1,
+                "requiredTech": "Optics",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building398",
+        "production": 2,
+                "requiredTech": "Archery",
+        "uniques": ["Only available <in cities with a [Building3]>"]
+        },
+        {
+        "name": "Building399",
+        "faith": 1,
+                "requiredTech": "Bronze Working",
+        "uniques": ["Destroyed when the city is captured"]
+        },
+        {
+        "name": "Building400",
+        "gold": 1,
+                "requiredTech": "Mathematics",
+        "uniques": ["Only available <in cities with a [Building3]>"]
+        },
+        {
+        "name": "Building401",
+        "food": 2,
+                "requiredTech": "Trapping",
+        "uniques": ["Must be next to [Coast]"]
+        },
+        {
+        "name": "Building402",
+        "gold": 1,
+                "requiredTech": "Mathematics",
+        "uniques": ["Must be next to [Coast]"]
+        },
+        {
+        "name": "Building403",
+        "happiness": 1,
+                "requiredTech": "Sailing",
+        "uniques": ["[+1 Production] from [Cattle] tiles [in this city]"]
+        },
+        {
+        "name": "Building404",
+        "faith": 2,
+                "requiredTech": "Mining",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building405",
+        "happiness": 2,
+                "requiredTech": "Archery",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building406",
+        "culture": 1,
+                "requiredTech": "Engineering",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building407",
+        "gold": 1,
+                "requiredTech": "Engineering",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building408",
+        "faith": 1,
+                "requiredTech": "Calendar",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building409",
+        "faith": 1,
+                "requiredTech": "Archery",
+        "uniques": ["[+1 Production] from [Cattle] tiles [in this city]"]
+        },
+        {
+        "name": "Building410",
+        "food": 2,
+                "requiredTech": "Trapping",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building411",
+        "gold": 1,
+                "requiredTech": "Writing",
+        "uniques": ["Must be next to [Coast]"]
+        },
+        {
+        "name": "Building412",
+        "culture": 1,
+                "requiredTech": "Engineering",
+        "uniques": ["Must be next to [Coast]"]
+        },
+        {
+        "name": "Building413",
+        "food": 1,
+                "requiredTech": "Pottery",
+        "uniques": ["Only available <in cities with a [Building3]>"]
+        },
+        {
+        "name": "Building414",
+        "food": 4,
+                "requiredTech": "Archery",
+        "uniques": ["Only available <in cities with a [Building3]>"]
+        },
+        {
+        "name": "Building415",
+        "culture": 1,
+                "requiredTech": "Trapping",
+        "uniques": ["[+1 Production] from [Cattle] tiles [in this city]"]
+        },
+        {
+        "name": "Building416",
+        "food": 1,
+                "requiredTech": "Animal Husbandry",
+        "uniques": ["Only available <in cities with a [Building3]>"]
+        },
+        {
+        "name": "Building417",
+        "happiness": 2,
+                "requiredTech": "Mathematics",
+        "uniques": ["[+1 Production] from [Cattle] tiles [in this city]"]
+        },
+        {
+        "name": "Building418",
+        "production": 2,
+                "requiredTech": "Construction",
+        "uniques": ["[+1 Production] from [Cattle] tiles [in this city]"]
+        },
+        {
+        "name": "Building419",
+        "food": 2,
+                "requiredTech": "Sailing",
+        "uniques": ["New [Military] units start with [15] Experience [in this city]"]
+        },
+        {
+        "name": "Building420",
+        "gold": 2,
+                "requiredTech": "Writing",
+        "uniques": ["Only available <in cities with a [Building3]>"]
+        },
+        {
+        "name": "Building421",
+        "culture": 2,
+                "requiredTech": "Archery",
+        "uniques": ["[+1 Production] from [Cattle] tiles [in this city]"]
+        },
+        {
+        "name": "Building422",
+        "gold": 1,
+                "requiredTech": "Trapping",
+        "uniques": ["Only available <in cities with a [Building3]>"]
+        },
+        {
+        "name": "Building423",
+        "culture": 1,
+                "requiredTech": "The Wheel",
+        "uniques": ["New [Military] units start with [15] Experience [in this city]"]
+        },
+        {
+        "name": "Building424",
+        "culture": 1,
+                "requiredTech": "Construction",
+        "uniques": ["Must be next to [Coast]"]
+        },
+        {
+        "name": "Building425",
+        "happiness": 1,
+                "requiredTech": "Optics",
+        "uniques": ["Must be next to [Coast]"]
+        },
+        {
+        "name": "Building426",
+        "gold": 1,
+                "requiredTech": "Masonry",
+        "uniques": ["[+1 Production] from [Cattle] tiles [in this city]"]
+        },
+        {
+        "name": "Building427",
+        "happiness": 1,
+                "requiredTech": "Calendar",
+        "uniques": ["[+1 Production] from [Cattle] tiles [in this city]"]
+        },
+        {
+        "name": "Building428",
+        "gold": 1,
+                "requiredTech": "Masonry",
+        "uniques": ["Only available <in cities with a [Building3]>"]
+        },
+        {
+        "name": "Building429",
+        "faith": 1,
+                "requiredTech": "Philosophy",
+        "uniques": ["Must be next to [Coast]"]
+        },
+        {
+        "name": "Building430",
+        "culture": 2,
+                "requiredTech": "Calendar",
+        "uniques": ["New [Military] units start with [15] Experience [in this city]"]
+        },
+        {
+        "name": "Building431",
+        "faith": 1,
+                "requiredTech": "Construction",
+        "uniques": ["[+1 Production] from [Cattle] tiles [in this city]"]
+        },
+        {
+        "name": "Building432",
+        "happiness": 1,
+                "requiredTech": "Drama and Poetry",
+        "uniques": ["Destroyed when the city is captured"]
+        },
+        {
+        "name": "Building433",
+        "production": 1,
+                "requiredTech": "Writing",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building434",
+        "happiness": 1,
+        "cost": 4,
+                "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building435",
+        "food": 3,
+                "requiredTech": "Mathematics",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building436",
+        "food": 1,
+                "requiredTech": "Construction",
+        "uniques": ["Must be next to [Coast]"]
+        },
+        {
+        "name": "Building437",
+        "culture": 3,
+                "requiredTech": "Trapping",
+        "uniques": ["New [Military] units start with [15] Experience [in this city]"]
+        },
+        {
+        "name": "Building438",
+        "production": 1,
+                "requiredTech": "Writing",
+        "uniques": ["New [Military] units start with [15] Experience [in this city]"]
+        },
+        {
+        "name": "Building439",
+        "gold": 1,
+                "requiredTech": "Drama and Poetry",
+        "uniques": ["New [Military] units start with [15] Experience [in this city]"]
+        },
+        {
+        "name": "Building440",
+        "gold": 1,
+                "requiredTech": "Sailing",
+        "uniques": ["[+1 Production] from [Cattle] tiles [in this city]"]
+        },
+        {
+        "name": "Building441",
+        "production": 1,
+                "requiredTech": "Philosophy",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building442",
+        "gold": 2,
+                "requiredTech": "Construction",
+        "uniques": ["[+1 Production] from [Cattle] tiles [in this city]"]
+        },
+        {
+        "name": "Building443",
+        "happiness": 1,
+                "requiredTech": "Animal Husbandry",
+        "uniques": ["Only available <in cities with a [Building3]>"]
+        },
+        {
+        "name": "Building444",
+        "culture": 1,
+                "requiredTech": "Trapping",
+        "uniques": ["[+1 Production] from [Cattle] tiles [in this city]"]
+        },
+        {
+        "name": "Building445",
+        "production": 1,
+                "requiredTech": "Philosophy",
+        "uniques": ["Must be next to [Coast]"]
+        },
+        {
+        "name": "Building446",
+        "culture": 2,
+                "requiredTech": "The Wheel",
+        "uniques": ["New [Military] units start with [15] Experience [in this city]"]
+        },
+        {
+        "name": "Building447",
+        "food": 1,
+                "requiredTech": "Sailing",
+        "uniques": ["New [Military] units start with [15] Experience [in this city]"]
+        },
+        {
+        "name": "Building448",
+        "gold": 2,
+                "requiredTech": "Writing",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building449",
+        "faith": 1,
+                "requiredTech": "Construction",
+        "uniques": ["Only available <in cities with a [Building3]>"]
+        },
+        {
+        "name": "Building450",
+        "happiness": 2,
+                "requiredTech": "Bronze Working",
+        "uniques": ["Must be next to [Coast]"]
+        },
+        {
+        "name": "Building451",
+        "culture": 1,
+                "requiredTech": "Construction",
+        "uniques": ["New [Military] units start with [15] Experience [in this city]"]
+        },
+        {
+        "name": "Building452",
+        "production": 1,
+                "requiredTech": "Engineering",
+        "uniques": ["Only available <in cities with a [Building3]>"]
+        },
+        {
+        "name": "Building453",
+        "happiness": 1,
+                "requiredTech": "Philosophy",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building454",
+        "food": 1,
+                "requiredTech": "Optics",
+        "uniques": ["Must be next to [Coast]"]
+        },
+        {
+        "name": "Building455",
+        "food": 3,
+                "requiredTech": "Calendar",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building456",
+        "gold": 1,
+                "requiredTech": "Sailing",
+        "uniques": ["Must be next to [Coast]"]
+        },
+        {
+        "name": "Building457",
+        "culture": 1,
+                "requiredTech": "Optics",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building458",
+        "gold": 1,
+                "requiredTech": "Pottery",
+        "uniques": ["[+1 Production] from [Cattle] tiles [in this city]"]
+        },
+        {
+        "name": "Building459",
+        "faith": 1,
+                "requiredTech": "Archery",
+        "uniques": ["[+1 Production] from [Cattle] tiles [in this city]"]
+        },
+        {
+        "name": "Building460",
+        "gold": 2,
+                "requiredTech": "Engineering",
+        "uniques": ["[+1 Production] from [Cattle] tiles [in this city]"]
+        },
+        {
+        "name": "Building461",
+        "food": 2,
+                "requiredTech": "Bronze Working",
+        "uniques": ["Must be next to [Coast]"]
+        },
+        {
+        "name": "Building462",
+        "gold": 2,
+                "requiredTech": "Mathematics",
+        "uniques": ["New [Military] units start with [15] Experience [in this city]"]
+        },
+        {
+        "name": "Building463",
+        "gold": 1,
+                "requiredTech": "Pottery",
+        "uniques": ["Must be next to [Coast]"]
+        },
+        {
+        "name": "Building464",
+        "food": 1,
+                "requiredTech": "Iron Working",
+        "uniques": ["Only available <in cities with a [Building3]>"]
+        },
+        {
+        "name": "Building465",
+        "faith": 2,
+                "requiredTech": "Masonry",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building466",
+        "culture": 1,
+                "requiredTech": "Writing",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building467",
+        "food": 1,
+                "requiredTech": "Trapping",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building468",
+        "gold": 1,
+                "requiredTech": "Archery",
+        "uniques": ["New [Military] units start with [15] Experience [in this city]"]
+        },
+        {
+        "name": "Building469",
+        "production": 1,
+                "requiredTech": "Construction",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building470",
+        "culture": 1,
+                "requiredTech": "Pottery",
+        "uniques": ["[+1 Production] from [Cattle] tiles [in this city]"]
+        },
+        {
+        "name": "Building471",
+        "gold": 1,
+                "requiredTech": "Mining",
+        "uniques": ["Only available <in cities with a [Building3]>"]
+        },
+        {
+        "name": "Building472",
+        "culture": 1,
+                "requiredTech": "Masonry",
+        "uniques": ["Only available <in cities with a [Building3]>"]
+        },
+        {
+        "name": "Building473",
+        "food": 1,
+                "requiredTech": "Sailing",
+        "uniques": ["Destroyed when the city is captured"]
+        },
+        {
+        "name": "Building474",
+        "culture": 3,
+                "requiredTech": "Sailing",
+        "uniques": ["[+1 Production] from [Cattle] tiles [in this city]"]
+        },
+        {
+        "name": "Building475",
+        "culture": 1,
+                "requiredTech": "Engineering",
+        "uniques": ["New [Military] units start with [15] Experience [in this city]"]
+        },
+        {
+        "name": "Building476",
+        "faith": 1,
+                "requiredTech": "Calendar",
+        "uniques": ["Destroyed when the city is captured"]
+        },
+        {
+        "name": "Building477",
+        "gold": 1,
+        "cost": 3,
+                "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building478",
+        "culture": 2,
+                "requiredTech": "Masonry",
+        "uniques": ["Only available <in cities with a [Building3]>"]
+        },
+        {
+        "name": "Building479",
+        "production": 1,
+                "requiredTech": "Currency",
+        "uniques": ["[+1 Production] from [Cattle] tiles [in this city]"]
+        },
+        {
+        "name": "Building480",
+        "faith": 1,
+                "requiredTech": "Writing",
+        "uniques": ["Destroyed when the city is captured"]
+        },
+        {
+        "name": "Building481",
+        "faith": 1,
+                "requiredTech": "Pottery",
+        "uniques": ["Must be next to [Coast]"]
+        },
+        {
+        "name": "Building482",
+        "food": 3,
+                "requiredTech": "Currency",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building483",
+        "food": 1,
+                "requiredTech": "Drama and Poetry",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building484",
+        "production": 1,
+                "requiredTech": "Mathematics",
+        "uniques": ["Only available <in cities with a [Building3]>"]
+        },
+        {
+        "name": "Building485",
+        "culture": 1,
+                "requiredTech": "Writing",
+        "uniques": ["Must be next to [Coast]"]
+        },
+        {
+        "name": "Building486",
+        "gold": 1,
+                "requiredTech": "Drama and Poetry",
+        "uniques": ["Only available <in cities with a [Building3]>"]
+        },
+        {
+        "name": "Building487",
+        "food": 1,
+                "requiredTech": "Trapping",
+        "uniques": ["Only available <in cities with a [Building3]>"]
+        },
+        {
+        "name": "Building488",
+        "food": 2,
+                "requiredTech": "Calendar",
+        "uniques": ["Must be next to [Coast]"]
+        },
+        {
+        "name": "Building489",
+        "gold": 3,
+                "requiredTech": "Pottery",
+        "uniques": ["Only available <in cities with a [Building3]>"]
+        },
+        {
+        "name": "Building490",
+        "happiness": 1,
+                "requiredTech": "Bronze Working",
+        "uniques": ["[+1 Production] from [Cattle] tiles [in this city]"]
+        },
+        {
+        "name": "Building491",
+        "faith": 1,
+                "requiredTech": "Calendar",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building492",
+        "faith": 1,
+                "requiredTech": "Philosophy",
+        "uniques": ["[+1 Production] from [Cattle] tiles [in this city]"]
+        },
+        {
+        "name": "Building493",
+        "happiness": 1,
+                "requiredTech": "Horseback Riding",
+        "uniques": ["New [Military] units start with [15] Experience [in this city]"]
+        },
+        {
+        "name": "Building494",
+        "faith": 1,
+                "requiredTech": "Pottery",
+        "uniques": ["Must be next to [Coast]"]
+        },
+        {
+        "name": "Building495",
+        "faith": 1,
+                "requiredTech": "Writing",
+        "uniques": ["Only available <in cities with a [Building3]>"]
+        },
+        {
+        "name": "Building496",
+        "gold": 1,
+                "requiredTech": "Mathematics",
+        "uniques": ["Must be next to [Coast]"]
+        },
+        {
+        "name": "Building497",
+        "faith": 2,
+                "requiredTech": "Masonry",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building498",
+        "happiness": 1,
+                "requiredTech": "Optics",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building499",
+        "culture": 2,
+                "requiredTech": "Animal Husbandry",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building500",
+        "faith": 1,
+                "requiredTech": "Optics",
+        "uniques": ["Must be next to [Coast]"]
+        },
+        {
+        "name": "Building501",
+        "production": 1,
+                "requiredTech": "Trapping",
+        "uniques": ["Destroyed when the city is captured"]
+        },
+        {
+        "name": "Building502",
+        "faith": 1,
+                "requiredTech": "Archery",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building503",
+        "faith": 1,
+                "requiredTech": "Sailing",
+        "uniques": ["New [Military] units start with [15] Experience [in this city]"]
+        },
+        {
+        "name": "Building504",
+        "food": 1,
+                "requiredTech": "The Wheel",
+        "uniques": ["[+1 Production] from [Cattle] tiles [in this city]"]
+        },
+        {
+        "name": "Building505",
+        "gold": 1,
+                "requiredTech": "Masonry",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building506",
+        "happiness": 2,
+                "requiredTech": "Horseback Riding",
+        "uniques": ["Must be next to [Coast]"]
+        },
+        {
+        "name": "Building507",
+        "gold": 1,
+                "requiredTech": "Animal Husbandry",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building508",
+        "production": 2,
+                "requiredTech": "Engineering",
+        "uniques": ["New [Military] units start with [15] Experience [in this city]"]
+        },
+        {
+        "name": "Building509",
+        "food": 1,
+                "requiredTech": "Masonry",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building510",
+        "production": 1,
+                "requiredTech": "Optics",
+        "uniques": ["New [Military] units start with [15] Experience [in this city]"]
+        },
+        {
+        "name": "Building511",
+        "gold": 1,
+                "requiredTech": "Animal Husbandry",
+        "uniques": ["Only available <in cities with a [Building3]>"]
+        },
+        {
+        "name": "Building512",
+        "gold": 1,
+                "requiredTech": "The Wheel",
+        "uniques": ["[+1 Production] from [Cattle] tiles [in this city]"]
+        },
+        {
+        "name": "Building513",
+        "gold": 1,
+                "requiredTech": "Animal Husbandry",
+        "uniques": ["Destroyed when the city is captured"]
+        },
+        {
+        "name": "Building514",
+        "culture": 2,
+                "requiredTech": "The Wheel",
+        "uniques": ["Must be next to [Coast]"]
+        },
+        {
+        "name": "Building515",
+        "food": 1,
+        "cost": 3,
+                "uniques": ["Must be next to [Coast]"]
+        },
+        {
+        "name": "Building516",
+        "food": 2,
+                "requiredTech": "Masonry",
+        "uniques": ["[+1 Production] from [Cattle] tiles [in this city]"]
+        },
+        {
+        "name": "Building517",
+        "happiness": 1,
+                "requiredTech": "Mining",
+        "uniques": ["Only available <in cities with a [Building3]>"]
+        },
+        {
+        "name": "Building518",
+        "gold": 1,
+                "requiredTech": "Animal Husbandry",
+        "uniques": ["Only available <in cities with a [Building3]>"]
+        },
+        {
+        "name": "Building519",
+        "gold": 1,
+                "requiredTech": "Archery",
+        "uniques": ["Only available <in cities with a [Building3]>"]
+        },
+        {
+        "name": "Building520",
+        "faith": 1,
+                "requiredTech": "Mining",
+        "uniques": ["New [Military] units start with [15] Experience [in this city]"]
+        },
+        {
+        "name": "Building521",
+        "gold": 1,
+                "requiredTech": "Mining",
+        "uniques": ["Destroyed when the city is captured"]
+        },
+        {
+        "name": "Building522",
+        "food": 1,
+                "requiredTech": "Sailing",
+        "uniques": ["Only available <in cities with a [Building3]>"]
+        },
+        {
+        "name": "Building523",
+        "production": 1,
+                "requiredTech": "Pottery",
+        "uniques": ["Only available <in cities with a [Building3]>"]
+        },
+        {
+        "name": "Building524",
+        "happiness": 1,
+                "requiredTech": "Trapping",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building525",
+        "gold": 1,
+                "requiredTech": "Optics",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building526",
+        "faith": 2,
+                "requiredTech": "Horseback Riding",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building527",
+        "culture": 2,
+                "requiredTech": "Trapping",
+        "uniques": ["Only available <in cities with a [Building3]>"]
+        },
+        {
+        "name": "Building528",
+        "faith": 1,
+                "requiredTech": "Writing",
+        "uniques": ["[+1 Production] from [Cattle] tiles [in this city]"]
+        },
+        {
+        "name": "Building529",
+        "production": 2,
+                "requiredTech": "Calendar",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building530",
+        "gold": 1,
+                "requiredTech": "Calendar",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building531",
+        "faith": 3,
+                "requiredTech": "Writing",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building532",
+        "food": 1,
+                "requiredTech": "Trapping",
+        "uniques": ["New [Military] units start with [15] Experience [in this city]"]
+        },
+        {
+        "name": "Building533",
+        "food": 3,
+                "requiredTech": "Archery",
+        "uniques": ["[+1 Production] from [Cattle] tiles [in this city]"]
+        },
+        {
+        "name": "Building534",
+        "food": 1,
+                "requiredTech": "Philosophy",
+        "uniques": ["New [Military] units start with [15] Experience [in this city]"]
+        },
+        {
+        "name": "Building535",
+        "faith": 3,
+                "requiredTech": "Bronze Working",
+        "uniques": ["New [Military] units start with [15] Experience [in this city]"]
+        },
+        {
+        "name": "Building536",
+        "gold": 1,
+                "requiredTech": "Bronze Working",
+        "uniques": ["Must be next to [Coast]"]
+        },
+        {
+        "name": "Building537",
+        "faith": 2,
+                "requiredTech": "Engineering",
+        "uniques": ["Only available <in cities with a [Building3]>"]
+        },
+        {
+        "name": "Building538",
+        "food": 1,
+                "requiredTech": "Horseback Riding",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building539",
+        "culture": 1,
+                "requiredTech": "Iron Working",
+        "uniques": ["[+1 Production] from [Cattle] tiles [in this city]"]
+        },
+        {
+        "name": "Building540",
+        "faith": 1,
+                "requiredTech": "Archery",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building541",
+        "faith": 3,
+        "cost": 5,
+                "uniques": ["New [Military] units start with [15] Experience [in this city]"]
+        },
+        {
+        "name": "Building542",
+        "faith": 1,
+                "requiredTech": "Mining",
+        "uniques": ["Only available <in cities with a [Building3]>"]
+        },
+        {
+        "name": "Building543",
+        "culture": 2,
+        "cost": 4,
+                "uniques": ["Destroyed when the city is captured"]
+        },
+        {
+        "name": "Building544",
+        "food": 3,
+                "requiredTech": "Philosophy",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building545",
+        "culture": 1,
+                "requiredTech": "Archery",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building546",
+        "happiness": 1,
+                "requiredTech": "Currency",
+        "uniques": ["New [Military] units start with [15] Experience [in this city]"]
+        },
+        {
+        "name": "Building547",
+        "faith": 1,
+                "requiredTech": "Pottery",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building548",
+        "happiness": 1,
+                "requiredTech": "Calendar",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building549",
+        "happiness": 2,
+                "requiredTech": "Iron Working",
+        "uniques": ["Must be next to [Coast]"]
+        },
+        {
+        "name": "Building550",
+        "food": 2,
+                "requiredTech": "Animal Husbandry",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building551",
+        "gold": 2,
+                "requiredTech": "Construction",
+        "uniques": ["[+1 Production] from [Cattle] tiles [in this city]"]
+        },
+        {
+        "name": "Building552",
+        "food": 1,
+                "requiredTech": "Writing",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building553",
+        "culture": 1,
+                "requiredTech": "Sailing",
+        "uniques": ["New [Military] units start with [15] Experience [in this city]"]
+        },
+        {
+        "name": "Building554",
+        "culture": 1,
+                "requiredTech": "Animal Husbandry",
+        "uniques": ["New [Military] units start with [15] Experience [in this city]"]
+        },
+        {
+        "name": "Building555",
+        "food": 1,
+                "requiredTech": "The Wheel",
+        "uniques": ["New [Military] units start with [15] Experience [in this city]"]
+        },
+        {
+        "name": "Building556",
+        "faith": 1,
+                "requiredTech": "Philosophy",
+        "uniques": ["Only available <in cities with a [Building3]>"]
+        },
+        {
+        "name": "Building557",
+        "culture": 1,
+                "requiredTech": "Mathematics",
+        "uniques": ["New [Military] units start with [15] Experience [in this city]"]
+        },
+        {
+        "name": "Building558",
+        "faith": 2,
+                "requiredTech": "Bronze Working",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building559",
+        "production": 1,
+                "requiredTech": "Writing",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building560",
+        "gold": 3,
+                "requiredTech": "Currency",
+        "uniques": ["Must be next to [Coast]"]
+        },
+        {
+        "name": "Building561",
+        "culture": 2,
+                "requiredTech": "Construction",
+        "uniques": ["Must be next to [Coast]"]
+        },
+        {
+        "name": "Building562",
+        "food": 2,
+                "requiredTech": "Calendar",
+        "uniques": ["Must be next to [Coast]"]
+        },
+        {
+        "name": "Building563",
+        "gold": 1,
+                "requiredTech": "Writing",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building564",
+        "gold": 1,
+                "requiredTech": "Drama and Poetry",
+        "uniques": ["Only available <in cities with a [Building3]>"]
+        },
+        {
+        "name": "Building565",
+        "gold": 1,
+                "requiredTech": "Animal Husbandry",
+        "uniques": ["New [Military] units start with [15] Experience [in this city]"]
+        },
+        {
+        "name": "Building566",
+        "food": 1,
+                "requiredTech": "Sailing",
+        "uniques": ["[+1 Production] from [Cattle] tiles [in this city]"]
+        },
+        {
+        "name": "Building567",
+        "food": 1,
+                "requiredTech": "Optics",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building568",
+        "faith": 1,
+                "requiredTech": "Sailing",
+        "uniques": ["Only available <in cities with a [Building3]>"]
+        },
+        {
+        "name": "Building569",
+        "culture": 2,
+                "requiredTech": "Bronze Working",
+        "uniques": ["New [Military] units start with [15] Experience [in this city]"]
+        },
+        {
+        "name": "Building570",
+        "gold": 1,
+                "requiredTech": "Sailing",
+        "uniques": ["[+1 Production] from [Cattle] tiles [in this city]"]
+        },
+        {
+        "name": "Building571",
+        "gold": 1,
+                "requiredTech": "Iron Working",
+        "uniques": ["[+1 Production] from [Cattle] tiles [in this city]"]
+        },
+        {
+        "name": "Building572",
+        "faith": 1,
+                "requiredTech": "Construction",
+        "uniques": ["New [Military] units start with [15] Experience [in this city]"]
+        },
+        {
+        "name": "Building573",
+        "food": 3,
+                "requiredTech": "Archery",
+        "uniques": ["New [Military] units start with [15] Experience [in this city]"]
+        },
+        {
+        "name": "Building574",
+        "gold": 3,
+                "requiredTech": "Masonry",
+        "uniques": ["Must be next to [Coast]"]
+        },
+        {
+        "name": "Building575",
+        "food": 3,
+                "requiredTech": "Currency",
+        "uniques": ["Must be next to [Coast]"]
+        },
+        {
+        "name": "Building576",
+        "food": 1,
+                "requiredTech": "Optics",
+        "uniques": ["Only available <in cities with a [Building3]>"]
+        },
+        {
+        "name": "Building577",
+        "faith": 1,
+                "requiredTech": "Currency",
+        "uniques": ["Must be next to [Coast]"]
+        },
+        {
+        "name": "Building578",
+        "culture": 1,
+                "requiredTech": "Drama and Poetry",
+        "uniques": ["Only available <in cities with a [Building3]>"]
+        },
+        {
+        "name": "Building579",
+        "gold": 1,
+                "requiredTech": "Archery",
+        "uniques": ["[+1 Production] from [Cattle] tiles [in this city]"]
+        },
+        {
+        "name": "Building580",
+        "food": 1,
+                "requiredTech": "Animal Husbandry",
+        "uniques": ["[+1 Production] from [Cattle] tiles [in this city]"]
+        },
+        {
+        "name": "Building581",
+        "faith": 2,
+                "requiredTech": "Construction",
+        "uniques": ["Destroyed when the city is captured"]
+        },
+        {
+        "name": "Building582",
+        "food": 1,
+                "requiredTech": "Engineering",
+        "uniques": ["[+1 Production] from [Cattle] tiles [in this city]"]
+        },
+        {
+        "name": "Building583",
+        "culture": 3,
+                "requiredTech": "Horseback Riding",
+        "uniques": ["New [Military] units start with [15] Experience [in this city]"]
+        },
+        {
+        "name": "Building584",
+        "production": 1,
+                "requiredTech": "Archery",
+        "uniques": ["[+1 Production] from [Cattle] tiles [in this city]"]
+        },
+        {
+        "name": "Building585",
+        "happiness": 1,
+                "requiredTech": "Mining",
+        "uniques": ["Must be next to [Coast]"]
+        },
+        {
+        "name": "Building586",
+        "happiness": 1,
+                "requiredTech": "Mathematics",
+        "uniques": ["New [Military] units start with [15] Experience [in this city]"]
+        },
+        {
+        "name": "Building587",
+        "food": 2,
+                "requiredTech": "Masonry",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building588",
+        "food": 1,
+                "requiredTech": "Engineering",
+        "uniques": ["[+1 Production] from [Cattle] tiles [in this city]"]
+        },
+        {
+        "name": "Building589",
+        "food": 1,
+                "requiredTech": "Pottery",
+        "uniques": ["Must be next to [Coast]"]
+        },
+        {
+        "name": "Building590",
+        "gold": 1,
+                "requiredTech": "Engineering",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building591",
+        "faith": 1,
+                "requiredTech": "Optics",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building592",
+        "faith": 1,
+                "requiredTech": "Engineering",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building593",
+        "production": 1,
+                "requiredTech": "Philosophy",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building594",
+        "culture": 1,
+                "requiredTech": "Currency",
+        "uniques": ["Only available <in cities with a [Building3]>"]
+        },
+        {
+        "name": "Building595",
+        "production": 2,
+                "requiredTech": "Pottery",
+        "uniques": ["Only available <in cities with a [Building3]>"]
+        },
+        {
+        "name": "Building596",
+        "gold": 1,
+                "requiredTech": "Mining",
+        "uniques": ["[+1 Production] from [Cattle] tiles [in this city]"]
+        },
+        {
+        "name": "Building597",
+        "food": 1,
+                "requiredTech": "Writing",
+        "uniques": ["[+1 Production] from [Cattle] tiles [in this city]"]
+        },
+        {
+        "name": "Building598",
+        "food": 1,
+                "requiredTech": "Writing",
+        "uniques": ["Only available <in cities with a [Building3]>"]
+        },
+        {
+        "name": "Building599",
+        "happiness": 1,
+                "requiredTech": "Drama and Poetry",
+        "uniques": ["Only available <in cities with a [Building3]>"]
+        },
+        {
+        "name": "Building600",
+        "happiness": 1,
+                "requiredTech": "Sailing",
+        "uniques": ["[+1 Production] from [Cattle] tiles [in this city]"]
+        },
+        {
+        "name": "Building601",
+        "gold": 2,
+                "requiredTech": "Archery",
+        "uniques": ["[+1 Production] from [Cattle] tiles [in this city]"]
+        },
+        {
+        "name": "Building602",
+        "production": 1,
+                "requiredTech": "Drama and Poetry",
+        "uniques": ["New [Military] units start with [15] Experience [in this city]"]
+        },
+        {
+        "name": "Building603",
+        "happiness": 2,
+                "requiredTech": "Horseback Riding",
+        "uniques": ["[+1 Production] from [Cattle] tiles [in this city]"]
+        },
+        {
+        "name": "Building604",
+        "gold": 3,
+        "cost": 4,
+                "uniques": ["[+1 Production] from [Cattle] tiles [in this city]"]
+        },
+        {
+        "name": "Building605",
+        "production": 1,
+                "requiredTech": "Engineering",
+        "uniques": ["New [Military] units start with [15] Experience [in this city]"]
+        },
+        {
+        "name": "Building606",
+        "gold": 1,
+                "requiredTech": "Pottery",
+        "uniques": ["New [Military] units start with [15] Experience [in this city]"]
+        },
+        {
+        "name": "Building607",
+        "faith": 2,
+                "requiredTech": "Writing",
+        "uniques": ["[+1 Production] from [Cattle] tiles [in this city]"]
+        },
+        {
+        "name": "Building608",
+        "culture": 2,
+                "requiredTech": "Mining",
+        "uniques": ["Only available <in cities with a [Building3]>"]
+        },
+        {
+        "name": "Building609",
+        "food": 2,
+                "requiredTech": "Sailing",
+        "uniques": ["Must be next to [Coast]"]
+        },
+        {
+        "name": "Building610",
+        "culture": 2,
+                "requiredTech": "Optics",
+        "uniques": ["[+1 Production] from [Cattle] tiles [in this city]"]
+        },
+        {
+        "name": "Building611",
+        "happiness": 1,
+                "requiredTech": "Mining",
+        "uniques": ["Destroyed when the city is captured"]
+        },
+        {
+        "name": "Building612",
+        "culture": 1,
+                "requiredTech": "Mathematics",
+        "uniques": ["Only available <in cities with a [Building3]>"]
+        },
+        {
+        "name": "Building613",
+        "culture": 2,
+                "requiredTech": "Currency",
+        "uniques": ["New [Military] units start with [15] Experience [in this city]"]
+        },
+        {
+        "name": "Building614",
+        "faith": 1,
+                "requiredTech": "Sailing",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building615",
+        "food": 2,
+                "requiredTech": "Iron Working",
+        "uniques": ["New [Military] units start with [15] Experience [in this city]"]
+        },
+        {
+        "name": "Building616",
+        "culture": 1,
+                "requiredTech": "Engineering",
+        "uniques": ["New [Military] units start with [15] Experience [in this city]"]
+        },
+        {
+        "name": "Building617",
+        "culture": 1,
+                "requiredTech": "Animal Husbandry",
+        "uniques": ["Must be next to [Coast]"]
+        },
+        {
+        "name": "Building618",
+        "gold": 2,
+                "requiredTech": "Pottery",
+        "uniques": ["Must be next to [Coast]"]
+        },
+        {
+        "name": "Building619",
+        "culture": 2,
+                "requiredTech": "The Wheel",
+        "uniques": ["Only available <in cities with a [Building3]>"]
+        },
+        {
+        "name": "Building620",
+        "production": 2,
+                "requiredTech": "Iron Working",
+        "uniques": ["Destroyed when the city is captured"]
+        },
+        {
+        "name": "Building621",
+        "happiness": 1,
+                "requiredTech": "Calendar",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building622",
+        "gold": 1,
+                "requiredTech": "Philosophy",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building623",
+        "production": 1,
+                "requiredTech": "Trapping",
+        "uniques": ["Only available <in cities with a [Building3]>"]
+        },
+        {
+        "name": "Building624",
+        "faith": 1,
+                "requiredTech": "Currency",
+        "uniques": ["Only available <in cities with a [Building3]>"]
+        },
+        {
+        "name": "Building625",
+        "food": 4,
+                "requiredTech": "Bronze Working",
+        "uniques": ["[+1 Production] from [Cattle] tiles [in this city]"]
+        },
+        {
+        "name": "Building626",
+        "production": 2,
+                "requiredTech": "Construction",
+        "uniques": ["Destroyed when the city is captured"]
+        },
+        {
+        "name": "Building627",
+        "faith": 3,
+                "requiredTech": "Construction",
+        "uniques": ["New [Military] units start with [15] Experience [in this city]"]
+        },
+        {
+        "name": "Building628",
+        "gold": 1,
+                "requiredTech": "Bronze Working",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building629",
+        "gold": 1,
+                "requiredTech": "The Wheel",
+        "uniques": ["Only available <in cities with a [Building3]>"]
+        },
+        {
+        "name": "Building630",
+        "faith": 1,
+                "requiredTech": "Iron Working",
+        "uniques": ["Destroyed when the city is captured"]
+        },
+        {
+        "name": "Building631",
+        "faith": 1,
+                "requiredTech": "Writing",
+        "uniques": ["New [Military] units start with [15] Experience [in this city]"]
+        },
+        {
+        "name": "Building632",
+        "faith": 1,
+                "requiredTech": "Animal Husbandry",
+        "uniques": ["[+1 Production] from [Cattle] tiles [in this city]"]
+        },
+        {
+        "name": "Building633",
+        "faith": 1,
+                "requiredTech": "Trapping",
+        "uniques": ["Only available <in cities with a [Building3]>"]
+        },
+        {
+        "name": "Building634",
+        "production": 1,
+                "requiredTech": "Sailing",
+        "uniques": ["Only available <in cities with a [Building3]>"]
+        },
+        {
+        "name": "Building635",
+        "gold": 1,
+                "requiredTech": "Archery",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building636",
+        "culture": 1,
+                "requiredTech": "Horseback Riding",
+        "uniques": ["Only available <in cities with a [Building3]>"]
+        },
+        {
+        "name": "Building637",
+        "food": 3,
+                "requiredTech": "Iron Working",
+        "uniques": ["[+1 Production] from [Cattle] tiles [in this city]"]
+        },
+        {
+        "name": "Building638",
+        "food": 1,
+                "requiredTech": "Engineering",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building639",
+        "food": 2,
+                "requiredTech": "The Wheel",
+        "uniques": ["Only available <in cities with a [Building3]>"]
+        },
+        {
+        "name": "Building640",
+        "gold": 1,
+                "requiredTech": "Writing",
+        "uniques": ["[+1 Production] from [Cattle] tiles [in this city]"]
+        },
+        {
+        "name": "Building641",
+        "culture": 1,
+                "requiredTech": "Engineering",
+        "uniques": ["[+1 Production] from [Cattle] tiles [in this city]"]
+        },
+        {
+        "name": "Building642",
+        "culture": 1,
+                "requiredTech": "Mining",
+        "uniques": ["Must be next to [Coast]"]
+        },
+        {
+        "name": "Building643",
+        "gold": 1,
+                "requiredTech": "Currency",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building644",
+        "culture": 2,
+                "requiredTech": "Archery",
+        "uniques": ["[+1 Production] from [Cattle] tiles [in this city]"]
+        },
+        {
+        "name": "Building645",
+        "faith": 2,
+                "requiredTech": "Philosophy",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building646",
+        "gold": 1,
+                "requiredTech": "Drama and Poetry",
+        "uniques": ["Must be next to [Coast]"]
+        },
+        {
+        "name": "Building647",
+        "culture": 1,
+        "cost": 4,
+                "uniques": ["Must be next to [Coast]"]
+        },
+        {
+        "name": "Building648",
+        "food": 1,
+                "requiredTech": "Currency",
+        "uniques": ["[+1 Production] from [Cattle] tiles [in this city]"]
+        },
+        {
+        "name": "Building649",
+        "food": 2,
+                "requiredTech": "The Wheel",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building650",
+        "culture": 3,
+        "cost": 6,
+                "uniques": ["[+1 Production] from [Cattle] tiles [in this city]"]
+        },
+        {
+        "name": "Building651",
+        "gold": 3,
+                "requiredTech": "Iron Working",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building652",
+        "food": 3,
+                "requiredTech": "Writing",
+        "uniques": ["Only available <in cities with a [Building3]>"]
+        },
+        {
+        "name": "Building653",
+        "culture": 2,
+                "requiredTech": "Drama and Poetry",
+        "uniques": ["Destroyed when the city is captured"]
+        },
+        {
+        "name": "Building654",
+        "happiness": 1,
+                "requiredTech": "Masonry",
+        "uniques": ["Must be next to [Coast]"]
+        },
+        {
+        "name": "Building655",
+        "culture": 1,
+                "requiredTech": "Drama and Poetry",
+        "uniques": ["Must be next to [Coast]"]
+        },
+        {
+        "name": "Building656",
+        "faith": 1,
+                "requiredTech": "Currency",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building657",
+        "gold": 1,
+                "requiredTech": "Currency",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building658",
+        "gold": 1,
+                "requiredTech": "Mathematics",
+        "uniques": ["Only available <in cities with a [Building3]>"]
+        },
+        {
+        "name": "Building659",
+        "food": 2,
+                "requiredTech": "Engineering",
+        "uniques": ["New [Military] units start with [15] Experience [in this city]"]
+        },
+        {
+        "name": "Building660",
+        "culture": 1,
+                "requiredTech": "Writing",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building661",
+        "culture": 1,
+                "requiredTech": "Bronze Working",
+        "uniques": ["Only available <in cities with a [Building3]>"]
+        },
+        {
+        "name": "Building662",
+        "faith": 1,
+                "requiredTech": "Archery",
+        "uniques": ["Destroyed when the city is captured"]
+        },
+        {
+        "name": "Building663",
+        "production": 2,
+                "requiredTech": "Currency",
+        "uniques": ["Must be next to [Coast]"]
+        },
+        {
+        "name": "Building664",
+        "faith": 1,
+                "requiredTech": "Sailing",
+        "uniques": ["Only available <in cities with a [Building3]>"]
+        },
+        {
+        "name": "Building665",
+        "faith": 2,
+                "requiredTech": "Sailing",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building666",
+        "happiness": 2,
+                "requiredTech": "Animal Husbandry",
+        "uniques": ["Must be next to [Coast]"]
+        },
+        {
+        "name": "Building667",
+        "production": 1,
+                "requiredTech": "Sailing",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building668",
+        "faith": 1,
+                "requiredTech": "Archery",
+        "uniques": ["Only available <in cities with a [Building3]>"]
+        },
+        {
+        "name": "Building669",
+        "faith": 2,
+                "requiredTech": "Engineering",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building670",
+        "faith": 1,
+                "requiredTech": "Calendar",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building671",
+        "food": 4,
+                "requiredTech": "Mathematics",
+        "uniques": ["Must be next to [Coast]"]
+        },
+        {
+        "name": "Building672",
+        "happiness": 1,
+                "requiredTech": "Writing",
+        "uniques": ["Must be next to [Coast]"]
+        },
+        {
+        "name": "Building673",
+        "gold": 3,
+                "requiredTech": "Trapping",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building674",
+        "gold": 2,
+                "requiredTech": "Mining",
+        "uniques": ["Must be next to [Coast]"]
+        },
+        {
+        "name": "Building675",
+        "culture": 1,
+                "requiredTech": "Animal Husbandry",
+        "uniques": ["Destroyed when the city is captured"]
+        },
+        {
+        "name": "Building676",
+        "faith": 1,
+                "requiredTech": "Drama and Poetry",
+        "uniques": ["[+1 Production] from [Cattle] tiles [in this city]"]
+        },
+        {
+        "name": "Building677",
+        "faith": 1,
+                "requiredTech": "Philosophy",
+        "uniques": ["Only available <in cities with a [Building3]>"]
+        },
+        {
+        "name": "Building678",
+        "faith": 2,
+                "requiredTech": "Mining",
+        "uniques": ["Only available <in cities with a [Building3]>"]
+        },
+        {
+        "name": "Building679",
+        "production": 2,
+                "requiredTech": "Drama and Poetry",
+        "uniques": ["[+1 Production] from [Cattle] tiles [in this city]"]
+        },
+        {
+        "name": "Building680",
+        "food": 3,
+                "requiredTech": "Optics",
+        "uniques": ["Destroyed when the city is captured"]
+        },
+        {
+        "name": "Building681",
+        "gold": 1,
+                "requiredTech": "Mining",
+        "uniques": ["[+1 Production] from [Cattle] tiles [in this city]"]
+        },
+        {
+        "name": "Building682",
+        "food": 1,
+                "requiredTech": "Bronze Working",
+        "uniques": ["Must be next to [Coast]"]
+        },
+        {
+        "name": "Building683",
+        "food": 2,
+                "requiredTech": "Trapping",
+        "uniques": ["New [Military] units start with [15] Experience [in this city]"]
+        },
+        {
+        "name": "Building684",
+        "faith": 1,
+                "requiredTech": "Philosophy",
+        "uniques": ["New [Military] units start with [15] Experience [in this city]"]
+        },
+        {
+        "name": "Building685",
+        "food": 1,
+                "requiredTech": "Engineering",
+        "uniques": ["Only available <in cities with a [Building3]>"]
+        },
+        {
+        "name": "Building686",
+        "faith": 1,
+                "requiredTech": "Philosophy",
+        "uniques": ["Only available <in cities with a [Building3]>"]
+        },
+        {
+        "name": "Building687",
+        "food": 1,
+                "requiredTech": "Mining",
+        "uniques": ["Only available <in cities with a [Building3]>"]
+        },
+        {
+        "name": "Building688",
+        "faith": 1,
+                "requiredTech": "Optics",
+        "uniques": ["Only available <in cities with a [Building3]>"]
+        },
+        {
+        "name": "Building689",
+        "faith": 2,
+                "requiredTech": "Drama and Poetry",
+        "uniques": ["New [Military] units start with [15] Experience [in this city]"]
+        },
+        {
+        "name": "Building690",
+        "production": 1,
+                "requiredTech": "Masonry",
+        "uniques": ["[+1 Production] from [Cattle] tiles [in this city]"]
+        },
+        {
+        "name": "Building691",
+        "gold": 2,
+                "requiredTech": "Calendar",
+        "uniques": ["Must be next to [Coast]"]
+        },
+        {
+        "name": "Building692",
+        "faith": 1,
+                "requiredTech": "Sailing",
+        "uniques": ["[+1 Production] from [Cattle] tiles [in this city]"]
+        },
+        {
+        "name": "Building693",
+        "happiness": 1,
+                "requiredTech": "Construction",
+        "uniques": ["Must be next to [Coast]"]
+        },
+        {
+        "name": "Building694",
+        "culture": 2,
+                "requiredTech": "Construction",
+        "uniques": ["Only available <in cities with a [Building3]>"]
+        },
+        {
+        "name": "Building695",
+        "faith": 2,
+                "requiredTech": "Currency",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building696",
+        "food": 1,
+                "requiredTech": "Currency",
+        "uniques": ["Destroyed when the city is captured"]
+        },
+        {
+        "name": "Building697",
+        "food": 1,
+                "requiredTech": "Drama and Poetry",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building698",
+        "gold": 1,
+                "requiredTech": "Mathematics",
+        "uniques": ["Must be next to [Coast]"]
+        },
+        {
+        "name": "Building699",
+        "happiness": 1,
+                "requiredTech": "Trapping",
+        "uniques": ["[+1 Production] from [Cattle] tiles [in this city]"]
+        },
+        {
+        "name": "Building700",
+        "faith": 1,
+                "requiredTech": "Writing",
+        "uniques": ["[+1 Production] from [Cattle] tiles [in this city]"]
+        },
+        {
+        "name": "Building701",
+        "production": 1,
+                "requiredTech": "Construction",
+        "uniques": ["Must be next to [Coast]"]
+        },
+        {
+        "name": "Building702",
+        "culture": 1,
+                "requiredTech": "Drama and Poetry",
+        "uniques": ["[+1 Production] from [Cattle] tiles [in this city]"]
+        },
+        {
+        "name": "Building703",
+        "culture": 1,
+                "requiredTech": "Sailing",
+        "uniques": ["[+1 Production] from [Cattle] tiles [in this city]"]
+        },
+        {
+        "name": "Building704",
+        "gold": 1,
+                "requiredTech": "Engineering",
+        "uniques": ["[+1 Production] from [Cattle] tiles [in this city]"]
+        },
+        {
+        "name": "Building705",
+        "faith": 1,
+                "requiredTech": "Archery",
+        "uniques": ["Destroyed when the city is captured"]
+        },
+        {
+        "name": "Building706",
+        "gold": 1,
+                "requiredTech": "Drama and Poetry",
+        "uniques": ["New [Military] units start with [15] Experience [in this city]"]
+        },
+        {
+        "name": "Building707",
+        "food": 2,
+                "requiredTech": "Bronze Working",
+        "uniques": ["New [Military] units start with [15] Experience [in this city]"]
+        },
+        {
+        "name": "Building708",
+        "gold": 2,
+                "requiredTech": "Iron Working",
+        "uniques": ["[+1 Production] from [Cattle] tiles [in this city]"]
+        },
+        {
+        "name": "Building709",
+        "production": 2,
+                "requiredTech": "Animal Husbandry",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building710",
+        "production": 1,
+                "requiredTech": "Currency",
+        "uniques": ["Destroyed when the city is captured"]
+        },
+        {
+        "name": "Building711",
+        "food": 1,
+                "requiredTech": "Mining",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building712",
+        "culture": 1,
+                "requiredTech": "Masonry",
+        "uniques": ["New [Military] units start with [15] Experience [in this city]"]
+        },
+        {
+        "name": "Building713",
+        "food": 3,
+        "cost": 4,
+                "uniques": ["Must be next to [Coast]"]
+        },
+        {
+        "name": "Building714",
+        "gold": 1,
+                "requiredTech": "Iron Working",
+        "uniques": ["Must be next to [Coast]"]
+        },
+        {
+        "name": "Building715",
+        "happiness": 1,
+        "cost": 5,
+                "uniques": ["Only available <in cities with a [Building3]>"]
+        },
+        {
+        "name": "Building716",
+        "happiness": 1,
+                "requiredTech": "Drama and Poetry",
+        "uniques": ["Destroyed when the city is captured"]
+        },
+        {
+        "name": "Building717",
+        "faith": 1,
+                "requiredTech": "Engineering",
+        "uniques": ["New [Military] units start with [15] Experience [in this city]"]
+        },
+        {
+        "name": "Building718",
+        "food": 1,
+                "requiredTech": "Archery",
+        "uniques": ["Must be next to [Coast]"]
+        },
+        {
+        "name": "Building719",
+        "culture": 2,
+                "requiredTech": "Pottery",
+        "uniques": ["Only available <in cities with a [Building3]>"]
+        },
+        {
+        "name": "Building720",
+        "culture": 1,
+        "cost": 6,
+                "uniques": ["[+1 Production] from [Cattle] tiles [in this city]"]
+        },
+        {
+        "name": "Building721",
+        "gold": 1,
+                "requiredTech": "Horseback Riding",
+        "uniques": ["[+1 Production] from [Cattle] tiles [in this city]"]
+        },
+        {
+        "name": "Building722",
+        "culture": 1,
+                "requiredTech": "Calendar",
+        "uniques": ["New [Military] units start with [15] Experience [in this city]"]
+        },
+        {
+        "name": "Building723",
+        "gold": 1,
+                "requiredTech": "Sailing",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building724",
+        "gold": 1,
+                "requiredTech": "Bronze Working",
+        "uniques": ["[+1 Production] from [Cattle] tiles [in this city]"]
+        },
+        {
+        "name": "Building725",
+        "gold": 1,
+                "requiredTech": "Horseback Riding",
+        "uniques": ["Must be next to [Coast]"]
+        },
+        {
+        "name": "Building726",
+        "gold": 2,
+                "requiredTech": "Calendar",
+        "uniques": ["Must be next to [Coast]"]
+        },
+        {
+        "name": "Building727",
+        "food": 1,
+                "requiredTech": "Masonry",
+        "uniques": ["Only available <in cities with a [Building3]>"]
+        },
+        {
+        "name": "Building728",
+        "faith": 2,
+                "requiredTech": "Mining",
+        "uniques": ["Only available <in cities with a [Building3]>"]
+        },
+        {
+        "name": "Building729",
+        "gold": 1,
+                "requiredTech": "Calendar",
+        "uniques": ["Only available <in cities with a [Building3]>"]
+        },
+        {
+        "name": "Building730",
+        "gold": 1,
+                "requiredTech": "Construction",
+        "uniques": ["New [Military] units start with [15] Experience [in this city]"]
+        },
+        {
+        "name": "Building731",
+        "faith": 1,
+                "requiredTech": "Writing",
+        "uniques": ["Must be next to [Coast]"]
+        },
+        {
+        "name": "Building732",
+        "production": 2,
+                "requiredTech": "Archery",
+        "uniques": ["Must be next to [Coast]"]
+        },
+        {
+        "name": "Building733",
+        "faith": 3,
+                "requiredTech": "Mathematics",
+        "uniques": ["[+1 Production] from [Cattle] tiles [in this city]"]
+        },
+        {
+        "name": "Building734",
+        "culture": 1,
+                "requiredTech": "Writing",
+        "uniques": ["[+1 Production] from [Cattle] tiles [in this city]"]
+        },
+        {
+        "name": "Building735",
+        "production": 3,
+                "requiredTech": "Animal Husbandry",
+        "uniques": ["Only available <in cities with a [Building3]>"]
+        },
+        {
+        "name": "Building736",
+        "production": 1,
+                "requiredTech": "Sailing",
+        "uniques": ["Destroyed when the city is captured"]
+        },
+        {
+        "name": "Building737",
+        "culture": 1,
+                "requiredTech": "Masonry",
+        "uniques": ["Only available <in cities with a [Building3]>"]
+        },
+        {
+        "name": "Building738",
+        "food": 1,
+                "requiredTech": "Animal Husbandry",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building739",
+        "food": 1,
+                "requiredTech": "Trapping",
+        "uniques": ["Only available <in cities with a [Building3]>"]
+        },
+        {
+        "name": "Building740",
+        "happiness": 1,
+                "requiredTech": "Engineering",
+        "uniques": ["[+1 Production] from [Cattle] tiles [in this city]"]
+        },
+        {
+        "name": "Building741",
+        "food": 4,
+                "requiredTech": "Animal Husbandry",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building742",
+        "faith": 2,
+                "requiredTech": "Pottery",
+        "uniques": ["Only available <in cities with a [Building3]>"]
+        },
+        {
+        "name": "Building743",
+        "culture": 3,
+                "requiredTech": "Sailing",
+        "uniques": ["Destroyed when the city is captured"]
+        },
+        {
+        "name": "Building744",
+        "faith": 1,
+                "requiredTech": "Writing",
+        "uniques": ["Only available <in cities with a [Building3]>"]
+        },
+        {
+        "name": "Building745",
+        "faith": 1,
+                "requiredTech": "Optics",
+        "uniques": ["Only available <in cities with a [Building3]>"]
+        },
+        {
+        "name": "Building746",
+        "culture": 1,
+                "requiredTech": "Engineering",
+        "uniques": ["[+1 Production] from [Cattle] tiles [in this city]"]
+        },
+        {
+        "name": "Building747",
+        "food": 1,
+                "requiredTech": "Iron Working",
+        "uniques": ["[+1 Production] from [Cattle] tiles [in this city]"]
+        },
+        {
+        "name": "Building748",
+        "culture": 1,
+                "requiredTech": "Archery",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building749",
+        "culture": 3,
+                "requiredTech": "Optics",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building750",
+        "culture": 2,
+                "requiredTech": "Mining",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building751",
+        "food": 3,
+                "requiredTech": "Bronze Working",
+        "uniques": ["Must be next to [Coast]"]
+        },
+        {
+        "name": "Building752",
+        "food": 1,
+                "requiredTech": "Bronze Working",
+        "uniques": ["New [Military] units start with [15] Experience [in this city]"]
+        },
+        {
+        "name": "Building753",
+        "production": 2,
+                "requiredTech": "Mathematics",
+        "uniques": ["Must be next to [Coast]"]
+        },
+        {
+        "name": "Building754",
+        "production": 2,
+                "requiredTech": "The Wheel",
+        "uniques": ["Must be next to [Coast]"]
+        },
+        {
+        "name": "Building755",
+        "gold": 1,
+                "requiredTech": "Archery",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building756",
+        "faith": 1,
+                "requiredTech": "Drama and Poetry",
+        "uniques": ["New [Military] units start with [15] Experience [in this city]"]
+        },
+        {
+        "name": "Building757",
+        "culture": 2,
+                "requiredTech": "The Wheel",
+        "uniques": ["Destroyed when the city is captured"]
+        },
+        {
+        "name": "Building758",
+        "culture": 2,
+                "requiredTech": "Mining",
+        "uniques": ["[+1 Production] from [Cattle] tiles [in this city]"]
+        },
+        {
+        "name": "Building759",
+        "food": 2,
+                "requiredTech": "Animal Husbandry",
+        "uniques": ["New [Military] units start with [15] Experience [in this city]"]
+        },
+        {
+        "name": "Building760",
+        "culture": 1,
+                "requiredTech": "Archery",
+        "uniques": ["Must be next to [Coast]"]
+        },
+        {
+        "name": "Building761",
+        "food": 1,
+                "requiredTech": "Mining",
+        "uniques": ["[+1 Production] from [Cattle] tiles [in this city]"]
+        },
+        {
+        "name": "Building762",
+        "food": 2,
+                "requiredTech": "Animal Husbandry",
+        "uniques": ["New [Military] units start with [15] Experience [in this city]"]
+        },
+        {
+        "name": "Building763",
+        "culture": 1,
+                "requiredTech": "Drama and Poetry",
+        "uniques": ["Only available <in cities with a [Building3]>"]
+        },
+        {
+        "name": "Building764",
+        "food": 1,
+                "requiredTech": "Drama and Poetry",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building765",
+        "production": 1,
+                "requiredTech": "Sailing",
+        "uniques": ["Must be next to [Coast]"]
+        },
+        {
+        "name": "Building766",
+        "production": 1,
+                "requiredTech": "Mining",
+        "uniques": ["[+1 Production] from [Cattle] tiles [in this city]"]
+        },
+        {
+        "name": "Building767",
+        "food": 1,
+                "requiredTech": "Trapping",
+        "uniques": ["New [Military] units start with [15] Experience [in this city]"]
+        },
+        {
+        "name": "Building768",
+        "food": 4,
+                "requiredTech": "Archery",
+        "uniques": ["Must be next to [Coast]"]
+        },
+        {
+        "name": "Building769",
+        "happiness": 1,
+                "requiredTech": "Masonry",
+        "uniques": ["Must be next to [Coast]"]
+        },
+        {
+        "name": "Building770",
+        "culture": 2,
+                "requiredTech": "Bronze Working",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building771",
+        "production": 1,
+                "requiredTech": "Mining",
+        "uniques": ["New [Military] units start with [15] Experience [in this city]"]
+        },
+        {
+        "name": "Building772",
+        "gold": 2,
+                "requiredTech": "Construction",
+        "uniques": ["Must be next to [Coast]"]
+        },
+        {
+        "name": "Building773",
+        "happiness": 1,
+                "requiredTech": "Mathematics",
+        "uniques": ["Destroyed when the city is captured"]
+        },
+        {
+        "name": "Building774",
+        "happiness": 1,
+                "requiredTech": "Engineering",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building775",
+        "culture": 1,
+                "requiredTech": "Bronze Working",
+        "uniques": ["Must be next to [Coast]"]
+        },
+        {
+        "name": "Building776",
+        "gold": 1,
+                "requiredTech": "Archery",
+        "uniques": ["New [Military] units start with [15] Experience [in this city]"]
+        },
+        {
+        "name": "Building777",
+        "gold": 3,
+                "requiredTech": "Engineering",
+        "uniques": ["[+1 Production] from [Cattle] tiles [in this city]"]
+        },
+        {
+        "name": "Building778",
+        "culture": 1,
+                "requiredTech": "Currency",
+        "uniques": ["[+1 Production] from [Cattle] tiles [in this city]"]
+        },
+        {
+        "name": "Building779",
+        "gold": 1,
+                "requiredTech": "Philosophy",
+        "uniques": ["[+1 Production] from [Cattle] tiles [in this city]"]
+        },
+        {
+        "name": "Building780",
+        "food": 4,
+                "requiredTech": "Mining",
+        "uniques": ["New [Military] units start with [15] Experience [in this city]"]
+        },
+        {
+        "name": "Building781",
+        "food": 1,
+                "requiredTech": "Iron Working",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building782",
+        "gold": 1,
+                "requiredTech": "Bronze Working",
+        "uniques": ["New [Military] units start with [15] Experience [in this city]"]
+        },
+        {
+        "name": "Building783",
+        "culture": 1,
+                "requiredTech": "Optics",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building784",
+        "faith": 1,
+                "requiredTech": "Writing",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building785",
+        "food": 1,
+                "requiredTech": "Masonry",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building786",
+        "faith": 3,
+                "requiredTech": "Construction",
+        "uniques": ["[+1 Production] from [Cattle] tiles [in this city]"]
+        },
+        {
+        "name": "Building787",
+        "culture": 1,
+                "requiredTech": "Animal Husbandry",
+        "uniques": ["Destroyed when the city is captured"]
+        },
+        {
+        "name": "Building788",
+        "food": 1,
+                "requiredTech": "Philosophy",
+        "uniques": ["[+1 Production] from [Cattle] tiles [in this city]"]
+        },
+        {
+        "name": "Building789",
+        "production": 1,
+                "requiredTech": "Mining",
+        "uniques": ["Only available <in cities with a [Building3]>"]
+        },
+        {
+        "name": "Building790",
+        "production": 2,
+                "requiredTech": "Animal Husbandry",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building791",
+        "gold": 1,
+                "requiredTech": "Writing",
+        "uniques": ["[+1 Production] from [Cattle] tiles [in this city]"]
+        },
+        {
+        "name": "Building792",
+        "food": 1,
+                "requiredTech": "Optics",
+        "uniques": ["Only available <in cities with a [Building3]>"]
+        },
+        {
+        "name": "Building793",
+        "food": 3,
+                "requiredTech": "Horseback Riding",
+        "uniques": ["Must be next to [Coast]"]
+        },
+        {
+        "name": "Building794",
+        "gold": 2,
+                "requiredTech": "Writing",
+        "uniques": ["Must be next to [Coast]"]
+        },
+        {
+        "name": "Building795",
+        "food": 1,
+                "requiredTech": "Masonry",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building796",
+        "culture": 1,
+                "requiredTech": "Sailing",
+        "uniques": ["Only available <in cities with a [Building3]>"]
+        },
+        {
+        "name": "Building797",
+        "production": 1,
+                "requiredTech": "Animal Husbandry",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building798",
+        "faith": 1,
+                "requiredTech": "Drama and Poetry",
+        "uniques": ["[+1 Production] from [Cattle] tiles [in this city]"]
+        },
+        {
+        "name": "Building799",
+        "culture": 1,
+                "requiredTech": "Construction",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building800",
+        "food": 1,
+                "requiredTech": "Trapping",
+        "uniques": ["New [Military] units start with [15] Experience [in this city]"]
+        },
+        {
+        "name": "Building801",
+        "food": 2,
+                "requiredTech": "Construction",
+        "uniques": ["[+1 Production] from [Cattle] tiles [in this city]"]
+        },
+        {
+        "name": "Building802",
+        "production": 1,
+                "requiredTech": "Pottery",
+        "uniques": ["Must be next to [Coast]"]
+        },
+        {
+        "name": "Building803",
+        "faith": 1,
+                "requiredTech": "Optics",
+        "uniques": ["Only available <in cities with a [Building3]>"]
+        },
+        {
+        "name": "Building804",
+        "culture": 1,
+                "requiredTech": "Pottery",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building805",
+        "happiness": 1,
+                "requiredTech": "Animal Husbandry",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building806",
+        "production": 3,
+                "requiredTech": "Masonry",
+        "uniques": ["New [Military] units start with [15] Experience [in this city]"]
+        },
+        {
+        "name": "Building807",
+        "food": 2,
+                "requiredTech": "Engineering",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building808",
+        "gold": 1,
+                "requiredTech": "The Wheel",
+        "uniques": ["[+1 Production] from [Cattle] tiles [in this city]"]
+        },
+        {
+        "name": "Building809",
+        "faith": 2,
+                "requiredTech": "Construction",
+        "uniques": ["Must be next to [Coast]"]
+        },
+        {
+        "name": "Building810",
+        "production": 1,
+                "requiredTech": "Philosophy",
+        "uniques": ["New [Military] units start with [15] Experience [in this city]"]
+        },
+        {
+        "name": "Building811",
+        "culture": 1,
+                "requiredTech": "Animal Husbandry",
+        "uniques": ["[+1 Production] from [Cattle] tiles [in this city]"]
+        },
+        {
+        "name": "Building812",
+        "gold": 1,
+                "requiredTech": "Drama and Poetry",
+        "uniques": ["New [Military] units start with [15] Experience [in this city]"]
+        },
+        {
+        "name": "Building813",
+        "gold": 1,
+                "requiredTech": "Construction",
+        "uniques": ["Only available <in cities with a [Building3]>"]
+        },
+        {
+        "name": "Building814",
+        "production": 2,
+                "requiredTech": "Writing",
+        "uniques": ["New [Military] units start with [15] Experience [in this city]"]
+        },
+        {
+        "name": "Building815",
+        "production": 1,
+                "requiredTech": "Optics",
+        "uniques": ["Only available <in cities with a [Building3]>"]
+        },
+        {
+        "name": "Building816",
+        "happiness": 1,
+                "requiredTech": "Trapping",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building817",
+        "food": 2,
+                "requiredTech": "Writing",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building818",
+        "gold": 1,
+                "requiredTech": "Writing",
+        "uniques": ["Only available <in cities with a [Building3]>"]
+        },
+        {
+        "name": "Building819",
+        "culture": 3,
+                "requiredTech": "Writing",
+        "uniques": ["Must be next to [Coast]"]
+        },
+        {
+        "name": "Building820",
+        "culture": 1,
+                "requiredTech": "Philosophy",
+        "uniques": ["Must be next to [Coast]"]
+        },
+        {
+        "name": "Building821",
+        "gold": 1,
+                "requiredTech": "Archery",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building822",
+        "culture": 1,
+                "requiredTech": "Optics",
+        "uniques": ["Only available <in cities with a [Building3]>"]
+        },
+        {
+        "name": "Building823",
+        "food": 1,
+                "requiredTech": "Optics",
+        "uniques": ["New [Military] units start with [15] Experience [in this city]"]
+        },
+        {
+        "name": "Building824",
+        "faith": 1,
+                "requiredTech": "Animal Husbandry",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building825",
+        "culture": 1,
+                "requiredTech": "Archery",
+        "uniques": ["Destroyed when the city is captured"]
+        },
+        {
+        "name": "Building826",
+        "gold": 2,
+                "requiredTech": "Mining",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building827",
+        "food": 2,
+                "requiredTech": "Writing",
+        "uniques": ["Destroyed when the city is captured"]
+        },
+        {
+        "name": "Building828",
+        "food": 2,
+                "requiredTech": "Mathematics",
+        "uniques": ["Must be next to [Coast]"]
+        },
+        {
+        "name": "Building829",
+        "happiness": 1,
+                "requiredTech": "Mining",
+        "uniques": ["[+1 Production] from [Cattle] tiles [in this city]"]
+        },
+        {
+        "name": "Building830",
+        "gold": 1,
+                "requiredTech": "Engineering",
+        "uniques": ["Must be next to [Coast]"]
+        },
+        {
+        "name": "Building831",
+        "faith": 3,
+                "requiredTech": "Iron Working",
+        "uniques": ["Only available <in cities with a [Building3]>"]
+        },
+        {
+        "name": "Building832",
+        "food": 1,
+                "requiredTech": "Currency",
+        "uniques": ["[+1 Production] from [Cattle] tiles [in this city]"]
+        },
+        {
+        "name": "Building833",
+        "food": 2,
+                "requiredTech": "Writing",
+        "uniques": ["New [Military] units start with [15] Experience [in this city]"]
+        },
+        {
+        "name": "Building834",
+        "gold": 1,
+                "requiredTech": "Mathematics",
+        "uniques": ["[+1 Production] from [Cattle] tiles [in this city]"]
+        },
+        {
+        "name": "Building835",
+        "faith": 1,
+                "requiredTech": "Pottery",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building836",
+        "faith": 2,
+                "requiredTech": "Optics",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building837",
+        "happiness": 1,
+                "requiredTech": "Masonry",
+        "uniques": ["Only available <in cities with a [Building3]>"]
+        },
+        {
+        "name": "Building838",
+        "culture": 1,
+                "requiredTech": "Drama and Poetry",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building839",
+        "gold": 3,
+                "requiredTech": "Mining",
+        "uniques": ["Only available <in cities with a [Building3]>"]
+        },
+        {
+        "name": "Building840",
+        "gold": 1,
+                "requiredTech": "Sailing",
+        "uniques": ["Must be next to [Coast]"]
+        },
+        {
+        "name": "Building841",
+        "production": 1,
+                "requiredTech": "Pottery",
+        "uniques": ["Must be next to [Coast]"]
+        },
+        {
+        "name": "Building842",
+        "happiness": 1,
+                "requiredTech": "Writing",
+        "uniques": ["Only available <in cities with a [Building3]>"]
+        },
+        {
+        "name": "Building843",
+        "happiness": 2,
+                "requiredTech": "Optics",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building844",
+        "faith": 1,
+                "requiredTech": "Pottery",
+        "uniques": ["Destroyed when the city is captured"]
+        },
+        {
+        "name": "Building845",
+        "faith": 1,
+                "requiredTech": "Writing",
+        "uniques": ["Destroyed when the city is captured"]
+        },
+        {
+        "name": "Building846",
+        "culture": 1,
+                "requiredTech": "Calendar",
+        "uniques": ["Only available <in cities with a [Building3]>"]
+        },
+        {
+        "name": "Building847",
+        "food": 1,
+        "cost": 9,
+                "uniques": ["Must be next to [Coast]"]
+        },
+        {
+        "name": "Building848",
+        "faith": 3,
+                "requiredTech": "Masonry",
+        "uniques": ["[+1 Production] from [Cattle] tiles [in this city]"]
+        },
+        {
+        "name": "Building849",
+        "gold": 1,
+                "requiredTech": "Archery",
+        "uniques": ["Must be next to [Coast]"]
+        },
+        {
+        "name": "Building850",
+        "gold": 1,
+                "requiredTech": "Optics",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building851",
+        "happiness": 1,
+                "requiredTech": "The Wheel",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building852",
+        "culture": 2,
+                "requiredTech": "Philosophy",
+        "uniques": ["[+1 Production] from [Cattle] tiles [in this city]"]
+        },
+        {
+        "name": "Building853",
+        "faith": 2,
+                "requiredTech": "Writing",
+        "uniques": ["New [Military] units start with [15] Experience [in this city]"]
+        },
+        {
+        "name": "Building854",
+        "culture": 1,
+                "requiredTech": "Optics",
+        "uniques": ["[+1 Production] from [Cattle] tiles [in this city]"]
+        },
+        {
+        "name": "Building855",
+        "faith": 1,
+                "requiredTech": "Bronze Working",
+        "uniques": ["Only available <in cities with a [Building3]>"]
+        },
+        {
+        "name": "Building856",
+        "faith": 1,
+                "requiredTech": "Currency",
+        "uniques": ["[+1 Production] from [Cattle] tiles [in this city]"]
+        },
+        {
+        "name": "Building857",
+        "production": 1,
+                "requiredTech": "Engineering",
+        "uniques": ["[+1 Production] from [Cattle] tiles [in this city]"]
+        },
+        {
+        "name": "Building858",
+        "faith": 1,
+                "requiredTech": "Bronze Working",
+        "uniques": ["Only available <in cities with a [Building3]>"]
+        },
+        {
+        "name": "Building859",
+        "food": 3,
+                "requiredTech": "Currency",
+        "uniques": ["Destroyed when the city is captured"]
+        },
+        {
+        "name": "Building860",
+        "happiness": 1,
+                "requiredTech": "Calendar",
+        "uniques": ["New [Military] units start with [15] Experience [in this city]"]
+        },
+        {
+        "name": "Building861",
+        "gold": 1,
+                "requiredTech": "The Wheel",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building862",
+        "production": 2,
+                "requiredTech": "Philosophy",
+        "uniques": ["New [Military] units start with [15] Experience [in this city]"]
+        },
+        {
+        "name": "Building863",
+        "food": 2,
+                "requiredTech": "Mining",
+        "uniques": ["Destroyed when the city is captured"]
+        },
+        {
+        "name": "Building864",
+        "food": 1,
+                "requiredTech": "Optics",
+        "uniques": ["Only available <in cities with a [Building3]>"]
+        },
+        {
+        "name": "Building865",
+        "culture": 1,
+                "requiredTech": "Engineering",
+        "uniques": ["Only available <in cities with a [Building3]>"]
+        },
+        {
+        "name": "Building866",
+        "food": 1,
+                "requiredTech": "Engineering",
+        "uniques": ["[+1 Production] from [Cattle] tiles [in this city]"]
+        },
+        {
+        "name": "Building867",
+        "happiness": 1,
+                "requiredTech": "Writing",
+        "uniques": ["New [Military] units start with [15] Experience [in this city]"]
+        },
+        {
+        "name": "Building868",
+        "food": 1,
+                "requiredTech": "Trapping",
+        "uniques": ["New [Military] units start with [15] Experience [in this city]"]
+        },
+        {
+        "name": "Building869",
+        "faith": 1,
+                "requiredTech": "Sailing",
+        "uniques": ["Must be next to [Coast]"]
+        },
+        {
+        "name": "Building870",
+        "food": 1,
+                "requiredTech": "Bronze Working",
+        "uniques": ["Only available <in cities with a [Building3]>"]
+        },
+        {
+        "name": "Building871",
+        "happiness": 1,
+                "requiredTech": "Sailing",
+        "uniques": ["Must be next to [Coast]"]
+        },
+        {
+        "name": "Building872",
+        "food": 1,
+                "requiredTech": "Writing",
+        "uniques": ["Destroyed when the city is captured"]
+        },
+        {
+        "name": "Building873",
+        "gold": 1,
+                "requiredTech": "Mathematics",
+        "uniques": ["New [Military] units start with [15] Experience [in this city]"]
+        },
+        {
+        "name": "Building874",
+        "culture": 1,
+                "requiredTech": "Trapping",
+        "uniques": ["Must be next to [Coast]"]
+        },
+        {
+        "name": "Building875",
+        "food": 1,
+                "requiredTech": "Bronze Working",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building876",
+        "culture": 1,
+                "requiredTech": "Drama and Poetry",
+        "uniques": ["New [Military] units start with [15] Experience [in this city]"]
+        },
+        {
+        "name": "Building877",
+        "culture": 1,
+                "requiredTech": "Drama and Poetry",
+        "uniques": ["[+1 Production] from [Cattle] tiles [in this city]"]
+        },
+        {
+        "name": "Building878",
+        "culture": 1,
+                "requiredTech": "Engineering",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building879",
+        "faith": 1,
+                "requiredTech": "Mathematics",
+        "uniques": ["New [Military] units start with [15] Experience [in this city]"]
+        },
+        {
+        "name": "Building880",
+        "gold": 1,
+                "requiredTech": "Animal Husbandry",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building881",
+        "production": 2,
+                "requiredTech": "Construction",
+        "uniques": ["Must be next to [Coast]"]
+        },
+        {
+        "name": "Building882",
+        "culture": 3,
+                "requiredTech": "Writing",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building883",
+        "gold": 1,
+                "requiredTech": "Pottery",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building884",
+        "faith": 1,
+                "requiredTech": "Pottery",
+        "uniques": ["[+1 Production] from [Cattle] tiles [in this city]"]
+        },
+        {
+        "name": "Building885",
+        "production": 1,
+                "requiredTech": "Calendar",
+        "uniques": ["New [Military] units start with [15] Experience [in this city]"]
+        },
+        {
+        "name": "Building886",
+        "gold": 1,
+                "requiredTech": "Mining",
+        "uniques": ["Destroyed when the city is captured"]
+        },
+        {
+        "name": "Building887",
+        "faith": 1,
+                "requiredTech": "Mathematics",
+        "uniques": ["Must be next to [Coast]"]
+        },
+        {
+        "name": "Building888",
+        "food": 1,
+                "requiredTech": "Archery",
+        "uniques": ["New [Military] units start with [15] Experience [in this city]"]
+        },
+        {
+        "name": "Building889",
+        "culture": 1,
+                "requiredTech": "Currency",
+        "uniques": ["Only available <in cities with a [Building3]>"]
+        },
+        {
+        "name": "Building890",
+        "gold": 2,
+                "requiredTech": "Trapping",
+        "uniques": ["Only available <in cities with a [Building3]>"]
+        },
+        {
+        "name": "Building891",
+        "food": 1,
+                "requiredTech": "Writing",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building892",
+        "faith": 1,
+                "requiredTech": "Philosophy",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building893",
+        "production": 1,
+                "requiredTech": "Currency",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building894",
+        "gold": 1,
+                "requiredTech": "Construction",
+        "uniques": ["Must be next to [Coast]"]
+        },
+        {
+        "name": "Building895",
+        "faith": 1,
+                "requiredTech": "Calendar",
+        "uniques": ["New [Military] units start with [15] Experience [in this city]"]
+        },
+        {
+        "name": "Building896",
+        "food": 1,
+                "requiredTech": "Mathematics",
+        "uniques": ["New [Military] units start with [15] Experience [in this city]"]
+        },
+        {
+        "name": "Building897",
+        "culture": 2,
+                "requiredTech": "Currency",
+        "uniques": ["[+1 Production] from [Cattle] tiles [in this city]"]
+        },
+        {
+        "name": "Building898",
+        "food": 2,
+                "requiredTech": "Construction",
+        "uniques": ["Only available <in cities with a [Building3]>"]
+        },
+        {
+        "name": "Building899",
+        "gold": 1,
+                "requiredTech": "Engineering",
+        "uniques": ["Only available <in cities with a [Building3]>"]
+        },
+        {
+        "name": "Building900",
+        "culture": 2,
+                "requiredTech": "Horseback Riding",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building901",
+        "food": 1,
+                "requiredTech": "Drama and Poetry",
+        "uniques": ["Only available <in cities with a [Building3]>"]
+        },
+        {
+        "name": "Building902",
+        "happiness": 1,
+                "requiredTech": "Construction",
+        "uniques": ["[+1 Production] from [Cattle] tiles [in this city]"]
+        },
+        {
+        "name": "Building903",
+        "faith": 3,
+                "requiredTech": "Bronze Working",
+        "uniques": ["[+1 Production] from [Cattle] tiles [in this city]"]
+        },
+        {
+        "name": "Building904",
+        "food": 1,
+                "requiredTech": "Pottery",
+        "uniques": ["New [Military] units start with [15] Experience [in this city]"]
+        },
+        {
+        "name": "Building905",
+        "faith": 1,
+                "requiredTech": "Philosophy",
+        "uniques": ["Only available <in cities with a [Building3]>"]
+        },
+        {
+        "name": "Building906",
+        "food": 1,
+                "requiredTech": "Optics",
+        "uniques": ["Only available <in cities with a [Building3]>"]
+        },
+        {
+        "name": "Building907",
+        "happiness": 1,
+                "requiredTech": "Drama and Poetry",
+        "uniques": ["[+1 Production] from [Cattle] tiles [in this city]"]
+        },
+        {
+        "name": "Building908",
+        "gold": 1,
+                "requiredTech": "Masonry",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building909",
+        "production": 1,
+                "requiredTech": "Construction",
+        "uniques": ["Only available <in cities with a [Building3]>"]
+        },
+        {
+        "name": "Building910",
+        "gold": 2,
+                "requiredTech": "Archery",
+        "uniques": ["Must be next to [Coast]"]
+        },
+        {
+        "name": "Building911",
+        "happiness": 1,
+                "requiredTech": "Animal Husbandry",
+        "uniques": ["Must be next to [Coast]"]
+        },
+        {
+        "name": "Building912",
+        "culture": 2,
+                "requiredTech": "The Wheel",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building913",
+        "faith": 1,
+                "requiredTech": "Engineering",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building914",
+        "faith": 1,
+                "requiredTech": "The Wheel",
+        "uniques": ["Must be next to [Coast]"]
+        },
+        {
+        "name": "Building915",
+        "faith": 2,
+                "requiredTech": "Archery",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building916",
+        "food": 1,
+                "requiredTech": "Iron Working",
+        "uniques": ["Only available <in cities with a [Building3]>"]
+        },
+        {
+        "name": "Building917",
+        "food": 1,
+                "requiredTech": "Bronze Working",
+        "uniques": ["Must be next to [Coast]"]
+        },
+        {
+        "name": "Building918",
+        "faith": 2,
+                "requiredTech": "Mining",
+        "uniques": ["Must be next to [Coast]"]
+        },
+        {
+        "name": "Building919",
+        "food": 1,
+                "requiredTech": "Drama and Poetry",
+        "uniques": ["Must be next to [Coast]"]
+        },
+        {
+        "name": "Building920",
+        "gold": 1,
+                "requiredTech": "Construction",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building921",
+        "food": 4,
+                "requiredTech": "Animal Husbandry",
+        "uniques": ["New [Military] units start with [15] Experience [in this city]"]
+        },
+        {
+        "name": "Building922",
+        "production": 2,
+                "requiredTech": "Calendar",
+        "uniques": ["Only available <in cities with a [Building3]>"]
+        },
+        {
+        "name": "Building923",
+        "gold": 2,
+                "requiredTech": "Construction",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building924",
+        "gold": 1,
+                "requiredTech": "Engineering",
+        "uniques": ["Must be next to [Coast]"]
+        },
+        {
+        "name": "Building925",
+        "culture": 2,
+                "requiredTech": "The Wheel",
+        "uniques": ["Must be next to [Coast]"]
+        },
+        {
+        "name": "Building926",
+        "production": 2,
+                "requiredTech": "The Wheel",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building927",
+        "food": 1,
+                "requiredTech": "Currency",
+        "uniques": ["New [Military] units start with [15] Experience [in this city]"]
+        },
+        {
+        "name": "Building928",
+        "culture": 2,
+                "requiredTech": "Horseback Riding",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building929",
+        "culture": 1,
+                "requiredTech": "Writing",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building930",
+        "food": 1,
+                "requiredTech": "Trapping",
+        "uniques": ["Must be next to [Coast]"]
+        },
+        {
+        "name": "Building931",
+        "faith": 1,
+                "requiredTech": "Archery",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building932",
+        "production": 2,
+                "requiredTech": "Sailing",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building933",
+        "culture": 1,
+                "requiredTech": "Trapping",
+        "uniques": ["[+1 Production] from [Cattle] tiles [in this city]"]
+        },
+        {
+        "name": "Building934",
+        "faith": 2,
+                "requiredTech": "Construction",
+        "uniques": ["New [Military] units start with [15] Experience [in this city]"]
+        },
+        {
+        "name": "Building935",
+        "culture": 2,
+                "requiredTech": "Sailing",
+        "uniques": ["Must be next to [Coast]"]
+        },
+        {
+        "name": "Building936",
+        "faith": 1,
+                "requiredTech": "Horseback Riding",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building937",
+        "food": 2,
+                "requiredTech": "Bronze Working",
+        "uniques": ["[+1 Production] from [Cattle] tiles [in this city]"]
+        },
+        {
+        "name": "Building938",
+        "culture": 1,
+                "requiredTech": "Construction",
+        "uniques": ["[+1 Production] from [Cattle] tiles [in this city]"]
+        },
+        {
+        "name": "Building939",
+        "culture": 3,
+                "requiredTech": "Philosophy",
+        "uniques": ["Only available <in cities with a [Building3]>"]
+        },
+        {
+        "name": "Building940",
+        "food": 4,
+                "requiredTech": "Mining",
+        "uniques": ["Only available <in cities with a [Building3]>"]
+        },
+        {
+        "name": "Building941",
+        "food": 1,
+                "requiredTech": "Construction",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building942",
+        "culture": 1,
+                "requiredTech": "Animal Husbandry",
+        "uniques": ["Must be next to [Coast]"]
+        },
+        {
+        "name": "Building943",
+        "food": 3,
+                "requiredTech": "The Wheel",
+        "uniques": ["Destroyed when the city is captured"]
+        },
+        {
+        "name": "Building944",
+        "production": 1,
+                "requiredTech": "Mathematics",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building945",
+        "faith": 1,
+                "requiredTech": "Animal Husbandry",
+        "uniques": ["Must be next to [Coast]"]
+        },
+        {
+        "name": "Building946",
+        "production": 1,
+                "requiredTech": "Animal Husbandry",
+        "uniques": ["New [Military] units start with [15] Experience [in this city]"]
+        },
+        {
+        "name": "Building947",
+        "gold": 1,
+                "requiredTech": "Trapping",
+        "uniques": ["[+1 Production] from [Cattle] tiles [in this city]"]
+        },
+        {
+        "name": "Building948",
+        "culture": 1,
+                "requiredTech": "Optics",
+        "uniques": ["Must be next to [Coast]"]
+        },
+        {
+        "name": "Building949",
+        "culture": 1,
+                "requiredTech": "Drama and Poetry",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building950",
+        "food": 1,
+                "requiredTech": "Trapping",
+        "uniques": ["[+1 Production] from [Cattle] tiles [in this city]"]
+        },
+        {
+        "name": "Building951",
+        "production": 1,
+                "requiredTech": "Mining",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building952",
+        "production": 1,
+                "requiredTech": "Archery",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building953",
+        "gold": 1,
+        "cost": 30,
+                "uniques": ["New [Military] units start with [15] Experience [in this city]"]
+        },
+        {
+        "name": "Building954",
+        "faith": 2,
+                "requiredTech": "Engineering",
+        "uniques": ["Must be next to [Coast]"]
+        },
+        {
+        "name": "Building955",
+        "gold": 2,
+                "requiredTech": "Construction",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building956",
+        "food": 1,
+                "requiredTech": "Sailing",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building957",
+        "happiness": 1,
+                "requiredTech": "Trapping",
+        "uniques": ["Only available <in cities with a [Building3]>"]
+        },
+        {
+        "name": "Building958",
+        "faith": 1,
+                "requiredTech": "Trapping",
+        "uniques": ["Destroyed when the city is captured"]
+        },
+        {
+        "name": "Building959",
+        "culture": 1,
+                "requiredTech": "The Wheel",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building960",
+        "food": 2,
+                "requiredTech": "Sailing",
+        "uniques": ["Only available <in cities with a [Building3]>"]
+        },
+        {
+        "name": "Building961",
+        "culture": 1,
+                "requiredTech": "Bronze Working",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building962",
+        "food": 4,
+                "requiredTech": "Mathematics",
+        "uniques": ["New [Military] units start with [15] Experience [in this city]"]
+        },
+        {
+        "name": "Building963",
+        "faith": 1,
+        "cost": 37,
+                "uniques": ["[+1 Production] from [Cattle] tiles [in this city]"]
+        },
+        {
+        "name": "Building964",
+        "production": 1,
+                "requiredTech": "Horseback Riding",
+        "uniques": ["Only available <in cities with a [Building3]>"]
+        },
+        {
+        "name": "Building965",
+        "faith": 1,
+                "requiredTech": "Iron Working",
+        "uniques": ["Must be next to [Coast]"]
+        },
+        {
+        "name": "Building966",
+        "faith": 1,
+                "requiredTech": "Bronze Working",
+        "uniques": ["Only available <in cities with a [Building3]>"]
+        },
+        {
+        "name": "Building967",
+        "food": 1,
+                "requiredTech": "Engineering",
+        "uniques": ["New [Military] units start with [15] Experience [in this city]"]
+        },
+        {
+        "name": "Building968",
+        "culture": 3,
+        "cost": 59,
+                "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building969",
+        "faith": 1,
+                "requiredTech": "Pottery",
+        "uniques": ["Only available <in cities with a [Building3]>"]
+        },
+        {
+        "name": "Building970",
+        "happiness": 1,
+                "requiredTech": "Animal Husbandry",
+        "uniques": ["[+1 Production] from [Cattle] tiles [in this city]"]
+        },
+        {
+        "name": "Building971",
+        "happiness": 1,
+                "requiredTech": "Masonry",
+        "uniques": ["New [Military] units start with [15] Experience [in this city]"]
+        },
+        {
+        "name": "Building972",
+        "culture": 1,
+                "requiredTech": "Engineering",
+        "uniques": ["[+1 Production] from [Cattle] tiles [in this city]"]
+        },
+        {
+        "name": "Building973",
+        "food": 1,
+                "requiredTech": "Trapping",
+        "uniques": ["New [Military] units start with [15] Experience [in this city]"]
+        },
+        {
+        "name": "Building974",
+        "production": 2,
+                "requiredTech": "Animal Husbandry",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building975",
+        "culture": 1,
+                "requiredTech": "Animal Husbandry",
+        "uniques": ["New [Military] units start with [15] Experience [in this city]"]
+        },
+        {
+        "name": "Building976",
+        "culture": 1,
+                "requiredTech": "Drama and Poetry",
+        "uniques": ["Must be next to [Coast]"]
+        },
+        {
+        "name": "Building977",
+        "gold": 1,
+                "requiredTech": "Iron Working",
+        "uniques": ["Destroyed when the city is captured"]
+        },
+        {
+        "name": "Building978",
+        "gold": 2,
+                "requiredTech": "Drama and Poetry",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building979",
+        "food": 1,
+                "requiredTech": "Calendar",
+        "uniques": ["Must be next to [Coast]"]
+        },
+        {
+        "name": "Building980",
+        "gold": 2,
+                "requiredTech": "Engineering",
+        "uniques": ["Destroyed when the city is captured"]
+        },
+        {
+        "name": "Building981",
+        "culture": 1,
+                "requiredTech": "The Wheel",
+        "uniques": ["New [Military] units start with [15] Experience [in this city]"]
+        },
+        {
+        "name": "Building982",
+        "culture": 1,
+                "requiredTech": "Masonry",
+        "uniques": ["New [Military] units start with [15] Experience [in this city]"]
+        },
+        {
+        "name": "Building983",
+        "gold": 1,
+                "requiredTech": "Bronze Working",
+        "uniques": ["[+1 Production] from [Cattle] tiles [in this city]"]
+        },
+        {
+        "name": "Building984",
+        "gold": 1,
+                "requiredTech": "Masonry",
+        "uniques": ["Must be next to [Coast]"]
+        },
+        {
+        "name": "Building985",
+        "culture": 1,
+                "requiredTech": "Drama and Poetry",
+        "uniques": ["Only available <in cities with a [Building3]>"]
+        },
+        {
+        "name": "Building986",
+        "gold": 2,
+                "requiredTech": "Calendar",
+        "uniques": ["[+1 Production] from [Cattle] tiles [in this city]"]
+        },
+        {
+        "name": "Building987",
+        "gold": 1,
+                "requiredTech": "Archery",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building988",
+        "faith": 1,
+                "requiredTech": "Trapping",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building989",
+        "gold": 1,
+                "requiredTech": "Iron Working",
+        "uniques": ["New [Military] units start with [15] Experience [in this city]"]
+        },
+        {
+        "name": "Building990",
+        "gold": 2,
+                "requiredTech": "Writing",
+        "uniques": ["Destroyed when the city is captured"]
+        },
+        {
+        "name": "Building991",
+        "food": 2,
+                "requiredTech": "Calendar",
+        "uniques": ["Only available <in cities with a [Building3]>"]
+        },
+        {
+        "name": "Building992",
+        "culture": 1,
+                "requiredTech": "The Wheel",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building993",
+        "gold": 1,
+                "requiredTech": "Iron Working",
+        "uniques": ["Must be next to [Coast]"]
+        },
+        {
+        "name": "Building994",
+        "gold": 2,
+                "requiredTech": "Archery",
+        "uniques": ["[+1 Production] from [Cattle] tiles [in this city]"]
+        },
+        {
+        "name": "Building995",
+        "faith": 1,
+                "requiredTech": "Philosophy",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building996",
+        "culture": 1,
+                "requiredTech": "Currency",
+        "uniques": ["New [Military] units start with [15] Experience [in this city]"]
+        },
+        {
+        "name": "Building997",
+        "food": 2,
+                "requiredTech": "Drama and Poetry",
+        "uniques": ["Must be next to [Coast]"]
+        },
+        {
+        "name": "Building998",
+        "faith": 1,
+                "requiredTech": "Archery",
+        "uniques": ["[+1 Food] from [Lakes] tiles [in this city]"]
+        },
+        {
+        "name": "Building999",
+        "gold": 1,
+                "requiredTech": "Writing",
+        "uniques": ["Only available <in cities with a [Building3]>"]
+        },
+        {
+        "name": "Building1000",
+        "food": 1,
+        "cost": 1159,
+                "uniques": ["New [Military] units start with [15] Experience [in this city]"]
+        }
+]
